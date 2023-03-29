@@ -1,0 +1,11 @@
+.popup{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    font-weight:600;
+    color: white;
+    height: 300px;
+    opacity: 0.5;
+    background-color: black;
+}

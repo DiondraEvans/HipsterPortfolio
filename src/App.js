@@ -1,28 +1,31 @@
-import logo from './logo.svg';
 import './App.css';
+import { AppContext } from './context/app_contexts';
+import React, { useContext } from 'react';
+import Message from './components/enterscreen/index.js'
+import GetTiles from './components/tiles';
+import GetSection from './components/section-stack';
+import GetProject from './components/Projects';
+import GetServices from './components/services';
+import GetNav from './components/nav';
+import GetContactForm from './components/form';
+import GetPopUp from './components/popup';
 
 function App() {
-  const testFunction = async () => {
-    const response = await  fetch('/test_route');
-    
-  }
-  testFunction()
+  let {popup, setPopup} = useContext(AppContext);
+ 
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hello
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App"> 
+     <GetNav />
+      <div className="compress">
+        <GetTiles />
+        <Message />
+      </div>
+      <div className="white_bg"> 
+        <GetProject />
+        <GetSection />
+        <GetServices />
+        {popup ? <GetPopUp /> : <GetContactForm />}
+      </div>
     </div>
   );
 }

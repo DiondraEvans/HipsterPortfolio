@@ -1,0 +1,27 @@
+.animated-element {
+  width: 100%;
+  height: 20rem;
+  color: white;
+  background-color: #71DBD4;
+  opacity: 1;
+  transform: translateX(1600px);
+  transition: all 1s ease-in-out;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.animated-element h1{
+  font-size: 60px;
+}
+.animated-element.active {
+  transform: translateX(0);
+}
+.tech-stack{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 80px;
+}

@@ -1,11 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
 .App {
   text-align: center;
+  animation: backgroundcolor 2s ease-in-out forwards;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@keyframes backgroundcolor {
+  0% {
+    background-color: black;
+  }
+  100% {
+    background-color: #FCF7EB;
+  }
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

@@ -1,0 +1,115 @@
+@keyframes leftmovement {
+    0% {
+      transform: translate(-300%, 0);
+      opacity: 0;
+    }
+    100% {
+      transform: translate(0, 0);
+      opacity: 1;
+    }
+  }
+  @keyframes rightmovement {
+    0% {
+      transform: translate(300%, 0);
+      opacity: 0;
+    }
+    100% {
+      transform: translate(0, 0);
+      opacity: 1;
+    }
+  }
+  @keyframes imagesmoveleft {
+    0% {
+      transform: translate(0, 0);
+    }
+    100% {
+      transform: translate(-300%, 0);
+    }
+  }
+  @keyframes midopacity {
+    0% {
+      opacity: 0;
+    
+    }
+    100% {
+      opacity: 1;
+      
+    }
+  }
+
+  #images{
+    width: 11.5%;
+    height: 100vh;
+    position: relative;
+    z-index: 1;
+  }
+  .leftimage{
+    animation: leftmovement 2s ease-in-out forwards,
+               imagesmoveleft 2s ease-in-out 2s forwards;
+  }
+  .midimage{
+    animation: midopacity 2s ease-in-out forwards,
+              imagesmoveleft 2.042s ease-in-out 2s forwards;
+  }
+  .rightimage{
+    animation: rightmovement 2s ease-in-out forwards,
+              imagesmoveleft 2s ease-in-out 2s forwards;
+  } 
+  @media screen and (max-width: 880px) {
+    @keyframes leftmovement {
+      0% {
+        transform: translate(-300%, 0px);
+        opacity: 0;
+      }
+      100% {
+        transform: translate(0, 0px);
+        opacity: 1;
+      }
+    }
+    @keyframes rightmovement {
+      0% {
+        transform: translate(300%, 0px);
+        opacity: 0;
+      }
+      100% {
+        transform: translate(0, 0px);
+        opacity: 1;
+      }
+    }
+    @keyframes imagesmoveleft {
+      0% {
+        transform: translate(0, 0);
+      }
+      100% {
+        transform: translate(-300%, 0);
+      }
+    }
+    @keyframes midopacity {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+  
+    #images{
+      width: 100px;
+      height: 100vh;
+      position: relative;
+      z-index: 1;
+      right: 7px;
+    }
+    .leftimage{
+      animation: leftmovement 2s ease-in-out forwards,
+                 imagesmoveleft 2s ease-in-out 2s forwards;
+    }
+    .midimage{
+      animation: midopacity 2s ease-in-out forwards,
+                imagesmoveleft 2s ease-in-out 2s forwards;
+    }
+    .rightimage{
+      animation: rightmovement 2s ease-in-out forwards,
+                imagesmoveleft 2s ease-in-out 2s forwards;
+    } 
+  }

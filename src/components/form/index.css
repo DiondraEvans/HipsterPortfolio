@@ -1,0 +1,46 @@
+.form{
+    width: 100%;
+    height: -moz-fit-content;
+    height: fit-content;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #C05858;
+}
+#options{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top:10px;
+    color: #C05858;
+}
+input{
+    width: 20%;
+}
+label{
+    margin-top: 5px;
+}
+#message{
+    width: 50%;
+    height:10rem;
+}
+button{
+    padding: 10px;
+    background-color: white;
+    color: #C05858;
+    border: none;
+    margin-top:20px;
+}
+button:hover{
+    padding: 10px;
+    background-color: #C05858;
+    color: white;
+    border: none;
+    margin-top:20px;
+}
+.form-title{
+    color: #C05858;
+}
