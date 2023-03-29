@@ -1,11 +1,8 @@
 import './index.css';
-import { Link } from 'react-router-dom';
-import { useState, useEffect } from 'react';
-import { Element } from 'react-scroll';
 import { InstagramEmbed } from 'react-social-media-embed';
 import { Parallax} from 'react-scroll-parallax';
 import GetNav from '../../components/nav';
-import video from './images/deadpool.mp4'
+
 
 function GetThreeDPage() {
   

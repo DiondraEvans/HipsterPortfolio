@@ -1,7 +1,7 @@
 import './index.css';
 import React, { useEffect, useState } from 'react';
 import { Element } from 'react-scroll';
-import { Link } from 'react-router-dom';
+
 
 
 

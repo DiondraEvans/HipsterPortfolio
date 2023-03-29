@@ -1,11 +1,4 @@
 import './index.css';
-import image1 from "./images/html_logo.png"
-import image2 from "./images/css.png"
-import image3 from "./images/javascript.png"
-import image4 from "./images/mongoDB.png"
-import image5 from "./images/React.png"
-import image6 from "./images/bootstrap.png"
-import image7 from "./images/figma.png"
 import React, { useEffect, useState } from 'react';
 import { Element } from 'react-scroll';
 
