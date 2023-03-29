@@ -11,7 +11,7 @@ import GetContactForm from './components/form';
 import GetPopUp from './components/popup';
 
 function App() {
-  let {popup, setPopup} = useContext(AppContext);
+  let {popup} = useContext(AppContext);
  
   return (
     <div className="App"> 

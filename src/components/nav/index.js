@@ -14,7 +14,7 @@ function GetNav() {
         <li><span className="navbar-icon"></span></li>
       </div>
       <div className={`res-navbar ${menuOpen ? 'open' : ''}`}>
-        <img className="close" src={ImageOne} onClick={() => setMenuOpen(!menuOpen)}></img>
+        <img className="close" alt="close button" src={ImageOne} onClick={() => setMenuOpen(!menuOpen)}></img>
         <ul>
           <li><Link to="/">Home</Link></li>
           <li><Link to="/3d-art">3D Art</Link></li>
