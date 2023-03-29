@@ -2,7 +2,7 @@
     width: fit-content;
     height: fit-content;
     position: absolute;
-    top: 0;
+    top: 30px;
     left: 90vw;
     z-index: 1000;
 }

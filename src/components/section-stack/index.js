@@ -24,7 +24,7 @@ function GetSection() {
  
   return (
    <Element name="animatedElement" className={`animated-element ${isActive ? 'active' : ''}`}>
-      <h1>My Services</h1>
+      <h1>Services</h1>
          {/* <div className="tech-stack">
           <img src={image1}></img>
           <img src={image2}></img>
