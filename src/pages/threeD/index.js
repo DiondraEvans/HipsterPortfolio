@@ -2,7 +2,7 @@ import './index.css';
 import { InstagramEmbed } from 'react-social-media-embed';
 import { Parallax} from 'react-scroll-parallax';
 import GetNav from '../../components/nav';
-import GetFooter from './components/footer';
+import GetFooter from '../../components/footer/index';
 
 function GetThreeDPage() {
   
