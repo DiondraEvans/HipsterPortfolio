@@ -2,7 +2,7 @@ import './index.css';
 import { InstagramEmbed } from 'react-social-media-embed';
 import { Parallax} from 'react-scroll-parallax';
 import GetNav from '../../components/nav';
-
+import GetFooter from './components/footer';
 
 function GetThreeDPage() {
   
@@ -33,7 +33,7 @@ function GetThreeDPage() {
         
       </Parallax>
       </div>
-    
+    <GetFooter />
   </div>
   );
 }

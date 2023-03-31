@@ -9,7 +9,7 @@ import GetServices from './components/services';
 import GetNav from './components/nav';
 import GetContactForm from './components/form';
 import GetPopUp from './components/popup';
-
+import GetFooter from './components/footer';
 function App() {
   let {popup} = useContext(AppContext);
  
@@ -25,6 +25,7 @@ function App() {
         <GetSection />
         <GetServices />
         {popup ? <GetPopUp /> : <GetContactForm />}
+        <GetFooter />
       </div>
     </div>
   );
