@@ -44,3 +44,35 @@ button:hover{
 .form-title{
     color: #C05858;
 }
+/* media query for smaller screens */
+@media screen and (max-width: 1500px){
+    input{
+        width: 80%;
+    }
+    #message{
+        width: 80%;
+        height:10rem;
+    }
+    #options{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top:10px;
+        color: #C05858;
+    }
+    button{
+        padding: 20px;
+        background-color: white;
+        color: #C05858;
+        border: none;
+        margin-top:20px;
+    }
+    button:hover{
+        padding: 20px;
+        background-color: #C05858;
+        color: white;
+        border: none;
+        margin-top:20px;
+    }
+}

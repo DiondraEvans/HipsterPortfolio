@@ -76,7 +76,7 @@ function GetServices() {
             </div>
             <div className="picture-row">
             <div style={{ display: 'flex'}}>
-                    <InstagramEmbed url="https://www.instagram.com/p/CPs-i5BHv7B/" width={"29rem"} height={580}/>
+                    <InstagramEmbed url="https://www.instagram.com/p/CPs-i5BHv7B/" width={"25rem"} height={780}/>
             </div>
             
             <div className="orange-sq-3">
@@ -89,13 +89,13 @@ function GetServices() {
             </div>
 
             <div style={{ display: 'flex'}}>
-                    <InstagramEmbed url="https://www.instagram.com/p/CNTzj57H5ZQ/?utm_source=ig_web_copy_link" width={"29rem"} height={580}/>
+                    <InstagramEmbed url="https://www.instagram.com/p/CNTzj57H5ZQ/?utm_source=ig_web_copy_link" width={"25rem"} height={680}/>
             </div>
         </div>
         </div>
         
         <div className="reg-services">
-            <h1 className="off-header" style={{marginTop: "40px", marginBottom: "40px"}}>Regular Services</h1>
+            <h1 className="off-header" id="second-header">Regular Services</h1>
             <div className="reg-info">
             
                 <div className="reg-orange-sq-1">
