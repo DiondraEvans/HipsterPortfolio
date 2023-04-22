@@ -24,7 +24,7 @@ function GetProject() {
   }, []);
   return (
        <Element  name="purple" className={`purple ${isActive ? 'active' : ''}`}>
-        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/RinvNiw1Cd8?autoplay=1&mute=1&loop=1&controls=0&playlist=RinvNiw1Cd8" title="Reel with music 2"  allow="accelerometer; " allowFullScreen></iframe>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/RinvNiw1Cd8?&autoplay=1&mute=1&loop=1&controls=0&playlist=RinvNiw1Cd8" title="Reel with music 2"  allow="accelerometer; " allowFullScreen></iframe>
         {/* <h1 style={{margin: 0}}>My Projects</h1>
           <div className='projects'>
             <div className="sneakers">

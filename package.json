@@ -26,6 +26,7 @@
     "react-scroll-parallax": "^3.3.2",
     "react-social-media-embed": "^2.3.4",
     "stream-browserify": "^3.0.0",
+    "three": "^0.151.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

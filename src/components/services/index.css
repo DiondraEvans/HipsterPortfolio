@@ -21,6 +21,9 @@
 }
 .off-header{
   color: white;
+  background-color:#C05858;
+  width: 400px;
+  text-align: center;
 }
 .offerings{
   z-index: 1000;
@@ -91,6 +94,11 @@
 .reg-services{
   z-index: 1000;
   margin-bottom: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 30rem;
 }
 .reg-intro-outro{
   display: flex;
@@ -125,8 +133,10 @@
   text-align: left;
 }
 #myVideo {
-    z-index: 1;
-    position: absolute;
-    top: 0;
-    min-height: 100%;
+  z-index: 1;
+  position: absolute;
+  /* top: 87px; */
+  min-height: 100%;
+  /* width: 100%; */
+  right: -962px;
   }
