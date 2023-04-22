@@ -76,7 +76,7 @@ function GetServices() {
             </div>
             <div className="picture-row">
             <div style={{ display: 'flex'}}>
-                    <InstagramEmbed url="https://www.instagram.com/p/CPs-i5BHv7B/" width={"25rem"} height={780}/>
+                    <InstagramEmbed url="https://www.instagram.com/p/CPs-i5BHv7B/" width={"29rem"} height={680}/>
             </div>
             
             <div className="orange-sq-3">
@@ -89,7 +89,7 @@ function GetServices() {
             </div>
 
             <div style={{ display: 'flex'}}>
-                    <InstagramEmbed url="https://www.instagram.com/p/CNTzj57H5ZQ/?utm_source=ig_web_copy_link" width={"25rem"} height={680}/>
+                    <InstagramEmbed url="https://www.instagram.com/p/CNTzj57H5ZQ/?utm_source=ig_web_copy_link" width={"29rem"} height={680}/>
             </div>
         </div>
         </div>
