@@ -138,7 +138,11 @@
   /* top: 87px; */
   min-height: 100%;
   /* width: 100%; */
-  right: -962px;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
   }
   /* media query for smaller screens */
   @media screen and (max-width: 1500px){
