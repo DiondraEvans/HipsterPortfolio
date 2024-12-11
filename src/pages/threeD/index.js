@@ -4,36 +4,28 @@ import { InstagramEmbed } from 'react-social-media-embed';
 import {Parallax} from 'react-scroll-parallax';
 import GetNav from '../../components/nav';
 import GetFooter from '../../components/footer/index';
-import * as THREE from 'three';
+// import Monkey from '../../MonkeyPlane'
+// import Donut from '../../Donuts614'
+import { Canvas } from "@react-three/fiber";
+import { OrbitControls, Float,  OrthographicCamera } from "@react-three/drei";
+import Scene from '../../Character'
+
+function Light({brightness, color}){
+  return(
+    <rectAreaLight
+    width={5}
+    height={5}
+    color={color}
+    intensity={brightness} 
+    position={[-2,1,5]}
+    lookAt={[0,0,0,]}
+    castShadow
+    />
+  )
+}
 
 function GetThreeDPage() {
-  
-  const containerRef = useRef(null);
- 
 
-  useEffect(() => {
-    const scene = new THREE.Scene();
-    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-    const renderer = new THREE.WebGLRenderer();
-    renderer.setSize(window.innerWidth, window.innerHeight);
-    containerRef.current.appendChild(renderer.domElement);
-
-    const geometry = new THREE.BoxGeometry();
-    const material = new THREE.MeshBasicMaterial({ color: "pink" });
-    const cube = new THREE.Mesh(geometry, material);
-    scene.add(cube);
-
-    camera.position.z = 5;
-
-    function animate() {
-      requestAnimationFrame(animate);
-      cube.rotation.x += 0.01;
-      cube.rotation.y += 0.01;
-      renderer.render(scene, camera);
-    }
-    animate();
-    console.log("mounted")
-  }, []);
   return (  
   <div>
      <div className="firstSection">
@@ -43,7 +35,18 @@ function GetThreeDPage() {
             <a href="https://www.instagram.com/rosegoldrenders/"  target="_blank" rel="noopener noreferrer">@rosegoldrenders</a>
         </div>
      </div>
-
+     <div className="donutSection">
+    {/* I want to ideally put the donut here */}
+    <Canvas shadows camera={{ position: [2, 3, 1], fov: 50}}>
+      <Light brightness={20} color={"#da91b7"}/>
+      {/* <Float speed={0.5} rotationIntensity={1.4} floatIntensity={1}> */}
+        <Scene />
+       {/* <Monkey />  */}
+       {/* <Donut /> */}
+      {/* </Float> */}
+      <OrbitControls enableZoom={true} />
+    </Canvas>
+     </div>
       <div className="art-section">   
         {/* <video src={video} autoPlay muted loop id="myVideo" type="video/mp4"/> */}
         <Parallax translateY={[-20, 20]}>
@@ -60,7 +63,7 @@ function GetThreeDPage() {
           </div>
         </Parallax>
       </div>
-    <div ref={containerRef}></div>;    
+     
     <GetFooter />
   </div>
   );
