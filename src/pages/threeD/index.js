@@ -1,28 +1,20 @@
 import './index.css';
-import React, { useRef, useEffect } from 'react';
+// eslint-disable-next-line
+import React, { useRef, useEffect, Suspense } from 'react';
 import { InstagramEmbed } from 'react-social-media-embed';
 import {Parallax} from 'react-scroll-parallax';
 import GetNav from '../../components/nav';
 import GetFooter from '../../components/footer/index';
 // import Monkey from '../../MonkeyPlane'
-// import Donut from '../../Donuts614'
 import { Canvas } from "@react-three/fiber";
-import { OrbitControls, Float,  OrthographicCamera } from "@react-three/drei";
-import Scene from '../../Character'
+import { OrbitControls, Float, useGLTF } from "@react-three/drei";
+import Character from '../../Character'
 
-function Light({brightness, color}){
-  return(
-    <rectAreaLight
-    width={5}
-    height={5}
-    color={color}
-    intensity={brightness} 
-    position={[-2,1,5]}
-    lookAt={[0,0,0,]}
-    castShadow
-    />
-  )
-}
+import Cutekitchen from '../../Cutekitchen'
+import Matcha from '../../Smallblendermatcha'
+import { Environment } from "@react-three/drei";
+
+
 
 function GetThreeDPage() {
 
@@ -32,18 +24,22 @@ function GetThreeDPage() {
         <GetNav />
         <div className="header-text">
             <h1>3D Art</h1>
-            <a href="https://www.instagram.com/rosegoldrenders/"  target="_blank" rel="noopener noreferrer">@rosegoldrenders</a>
+            <a href="https://www.instagram.com/rosegoldrenders/" target="_blank" rel="noopener noreferrer">@rosegoldrenders</a>
         </div>
      </div>
      <div className="donutSection">
-    {/* I want to ideally put the donut here */}
-    <Canvas shadows camera={{ position: [2, 3, 1], fov: 50}}>
-      <Light brightness={20} color={"#da91b7"}/>
+    {/* I want to ideally put the skateboard here */}
+    
+    <Canvas shadows camera={{ position: [2, 1, 3], fov: 50 }}>
+    <Environment preset="sunset" background={false} />
       {/* <Float speed={0.5} rotationIntensity={1.4} floatIntensity={1}> */}
-        <Scene />
-       {/* <Monkey />  */}
-       {/* <Donut /> */}
-      {/* </Float> */}
+        {/* <Character /> */}
+         <Float>
+           <Suspense fallback={null}>
+              <Cutekitchen />
+            </Suspense>
+         </Float>
+         <Matcha />
       <OrbitControls enableZoom={true} />
     </Canvas>
      </div>

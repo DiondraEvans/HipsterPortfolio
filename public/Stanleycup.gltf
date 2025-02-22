@@ -1,0 +1,5442 @@
+Sta{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 2268,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 972,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5125,
+      "count": 2268,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 972,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5125,
+      "count": 2268,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5125,
+      "count": 2268,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5125,
+      "count": 198,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5125,
+      "count": 720,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5125,
+      "count": 198,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5125,
+      "count": 720,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5125,
+      "count": 2640,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5125,
+      "count": 2640,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 3408,
+      "max": [
+        0.17368467152118683,
+        0.2579927444458008,
+        0.6263943314552307
+      ],
+      "min": [
+        -0.17940910160541534,
+        -0.4493551254272461,
+        -0.6481578946113586
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 3408,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 3408,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5123,
+      "count": 3408,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5121,
+      "count": 3408,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5126,
+      "count": 3408,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5125,
+      "count": 8316,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5125,
+      "count": 3762,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 20,
+      "componentType": 5125,
+      "count": 3762,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 21,
+      "componentType": 5126,
+      "count": 2796,
+      "max": [
+        0.4994336664676666,
+        0.5,
+        0.5
+      ],
+      "min": [
+        -0.4994336664676666,
+        -0.5,
+        -0.5
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 22,
+      "componentType": 5126,
+      "count": 2796,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 23,
+      "componentType": 5126,
+      "count": 2796,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 24,
+      "componentType": 5123,
+      "count": 2796,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 25,
+      "componentType": 5121,
+      "count": 2796,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 26,
+      "componentType": 5126,
+      "count": 2796,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 27,
+      "componentType": 5125,
+      "count": 792,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 28,
+      "componentType": 5125,
+      "count": 3762,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 29,
+      "componentType": 5126,
+      "count": 862,
+      "max": [
+        0.4967512786388397,
+        0.06043221428990364,
+        0.4894764721393585
+      ],
+      "min": [
+        -0.4967512786388397,
+        -0.09948763251304626,
+        -0.5013424754142761
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 30,
+      "componentType": 5126,
+      "count": 862,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 31,
+      "componentType": 5126,
+      "count": 862,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 32,
+      "componentType": 5123,
+      "count": 862,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 33,
+      "componentType": 5121,
+      "count": 862,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 34,
+      "componentType": 5126,
+      "count": 862,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 35,
+      "componentType": 5125,
+      "count": 792,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 36,
+      "componentType": 5125,
+      "count": 3762,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 37,
+      "componentType": 5126,
+      "count": 862,
+      "max": [
+        0.4967512786388397,
+        0.06043221428990364,
+        0.4894764721393585
+      ],
+      "min": [
+        -0.4967512786388397,
+        -0.09948763251304626,
+        -0.5013424158096313
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 38,
+      "componentType": 5126,
+      "count": 862,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 39,
+      "componentType": 5126,
+      "count": 862,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 40,
+      "componentType": 5123,
+      "count": 862,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 41,
+      "componentType": 5121,
+      "count": 862,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 42,
+      "componentType": 5126,
+      "count": 862,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 43,
+      "componentType": 5125,
+      "count": 101397,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 44,
+      "componentType": 5126,
+      "count": 16964,
+      "max": [
+        0.5,
+        1.1920928955078125e-7,
+        0.5000001192092896
+      ],
+      "min": [
+        -0.5,
+        1.1920928955078125e-7,
+        -0.5000001192092896
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 45,
+      "componentType": 5126,
+      "count": 16964,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 46,
+      "componentType": 5126,
+      "count": 16964,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 47,
+      "componentType": 5123,
+      "count": 16964,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 48,
+      "componentType": 5121,
+      "count": 16964,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 49,
+      "componentType": 5126,
+      "count": 16964,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 50,
+      "componentType": 5125,
+      "count": 12276,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 51,
+      "componentType": 5125,
+      "count": 3762,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 52,
+      "componentType": 5126,
+      "count": 2805,
+      "max": [
+        0.5252891182899475,
+        0.7765313386917114,
+        0.525884747505188
+      ],
+      "min": [
+        -0.5252891182899475,
+        -0.7765313386917114,
+        -0.525884747505188
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 53,
+      "componentType": 5126,
+      "count": 2805,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 54,
+      "componentType": 5126,
+      "count": 2805,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 55,
+      "componentType": 5123,
+      "count": 2805,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 56,
+      "componentType": 5121,
+      "count": 2805,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 57,
+      "componentType": 5126,
+      "count": 2805,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 58,
+      "componentType": 5125,
+      "count": 13140,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 59,
+      "componentType": 5125,
+      "count": 810,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 60,
+      "componentType": 5125,
+      "count": 810,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 61,
+      "componentType": 5126,
+      "count": 2596,
+      "max": [
+        -0.5608261823654175,
+        2.207973003387451,
+        0.06149879842996597
+      ],
+      "min": [
+        -1.1051061153411865,
+        0.8400887846946716,
+        -0.24188174307346344
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 62,
+      "componentType": 5126,
+      "count": 2596,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 63,
+      "componentType": 5126,
+      "count": 2596,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 64,
+      "componentType": 5123,
+      "count": 2596,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 65,
+      "componentType": 5121,
+      "count": 2596,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 66,
+      "componentType": 5126,
+      "count": 2596,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 67,
+      "componentType": 5125,
+      "count": 7128,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 68,
+      "componentType": 5125,
+      "count": 7128,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 69,
+      "componentType": 5125,
+      "count": 1188,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 70,
+      "componentType": 5125,
+      "count": 1188,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 71,
+      "componentType": 5126,
+      "count": 3074,
+      "max": [
+        0.4681594967842102,
+        0.4229191243648529,
+        0.4686903953552246
+      ],
+      "min": [
+        -0.4681594967842102,
+        -0.4229191243648529,
+        -0.4686903953552246
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 72,
+      "componentType": 5126,
+      "count": 3074,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 73,
+      "componentType": 5126,
+      "count": 3074,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 74,
+      "componentType": 5123,
+      "count": 3074,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 75,
+      "componentType": 5121,
+      "count": 3074,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 76,
+      "componentType": 5126,
+      "count": 3074,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 77,
+      "componentType": 5125,
+      "count": 11664,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 78,
+      "componentType": 5125,
+      "count": 11664,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 79,
+      "componentType": 5125,
+      "count": 972,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 80,
+      "componentType": 5126,
+      "count": 4562,
+      "max": [
+        0.49718913435935974,
+        0.1225254237651825,
+        0.49728265404701233
+      ],
+      "min": [
+        -0.49718916416168213,
+        -0.1225254237651825,
+        -0.49728265404701233
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 81,
+      "componentType": 5126,
+      "count": 4562,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 82,
+      "componentType": 5126,
+      "count": 4562,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 83,
+      "componentType": 5123,
+      "count": 4562,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 84,
+      "componentType": 5121,
+      "count": 4562,
+      "normalized": true,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 85,
+      "componentType": 5126,
+      "count": 4562,
+      "type": "VEC2"
+    }
+  ],
+  "asset": {
+    "generator": "nomad 10",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 9072,
+      "byteOffset": 0,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3888,
+      "byteOffset": 9072,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 9072,
+      "byteOffset": 12960,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3888,
+      "byteOffset": 22032,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 9072,
+      "byteOffset": 25920,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 9072,
+      "byteOffset": 34992,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 792,
+      "byteOffset": 44064,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2880,
+      "byteOffset": 44856,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 792,
+      "byteOffset": 47736,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2880,
+      "byteOffset": 48528,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10560,
+      "byteOffset": 51408,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10560,
+      "byteOffset": 61968,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 40896,
+      "byteOffset": 72528,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 40896,
+      "byteOffset": 113424,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 54528,
+      "byteOffset": 154320,
+      "byteStride": 16,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27264,
+      "byteOffset": 208848,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13632,
+      "byteOffset": 236112,
+      "byteStride": 4,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27264,
+      "byteOffset": 249744,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33264,
+      "byteOffset": 277008,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15048,
+      "byteOffset": 310272,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15048,
+      "byteOffset": 325320,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33552,
+      "byteOffset": 340368,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33552,
+      "byteOffset": 373920,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 44736,
+      "byteOffset": 407472,
+      "byteStride": 16,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22368,
+      "byteOffset": 452208,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11184,
+      "byteOffset": 474576,
+      "byteStride": 4,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22368,
+      "byteOffset": 485760,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3168,
+      "byteOffset": 508128,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15048,
+      "byteOffset": 511296,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10344,
+      "byteOffset": 526344,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10344,
+      "byteOffset": 536688,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13792,
+      "byteOffset": 547032,
+      "byteStride": 16,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6896,
+      "byteOffset": 560824,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3448,
+      "byteOffset": 567720,
+      "byteStride": 4,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6896,
+      "byteOffset": 571168,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3168,
+      "byteOffset": 578064,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15048,
+      "byteOffset": 581232,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10344,
+      "byteOffset": 596280,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10344,
+      "byteOffset": 606624,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13792,
+      "byteOffset": 616968,
+      "byteStride": 16,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6896,
+      "byteOffset": 630760,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3448,
+      "byteOffset": 637656,
+      "byteStride": 4,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6896,
+      "byteOffset": 641104,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 405588,
+      "byteOffset": 648000,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 203568,
+      "byteOffset": 1053588,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 203568,
+      "byteOffset": 1257156,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 271424,
+      "byteOffset": 1460724,
+      "byteStride": 16,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 135712,
+      "byteOffset": 1732148,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 67856,
+      "byteOffset": 1867860,
+      "byteStride": 4,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 135712,
+      "byteOffset": 1935716,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 49104,
+      "byteOffset": 2071428,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 15048,
+      "byteOffset": 2120532,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33660,
+      "byteOffset": 2135580,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33660,
+      "byteOffset": 2169240,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 44880,
+      "byteOffset": 2202900,
+      "byteStride": 16,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22440,
+      "byteOffset": 2247780,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11220,
+      "byteOffset": 2270220,
+      "byteStride": 4,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22440,
+      "byteOffset": 2281440,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 52560,
+      "byteOffset": 2303880,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3240,
+      "byteOffset": 2356440,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3240,
+      "byteOffset": 2359680,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 31152,
+      "byteOffset": 2362920,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 31152,
+      "byteOffset": 2394072,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 41536,
+      "byteOffset": 2425224,
+      "byteStride": 16,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20768,
+      "byteOffset": 2466760,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10384,
+      "byteOffset": 2487528,
+      "byteStride": 4,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20768,
+      "byteOffset": 2497912,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28512,
+      "byteOffset": 2518680,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28512,
+      "byteOffset": 2547192,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4752,
+      "byteOffset": 2575704,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4752,
+      "byteOffset": 2580456,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 36888,
+      "byteOffset": 2585208,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 36888,
+      "byteOffset": 2622096,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 49184,
+      "byteOffset": 2658984,
+      "byteStride": 16,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24592,
+      "byteOffset": 2708168,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12296,
+      "byteOffset": 2732760,
+      "byteStride": 4,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24592,
+      "byteOffset": 2745056,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 46656,
+      "byteOffset": 2769648,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 46656,
+      "byteOffset": 2816304,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3888,
+      "byteOffset": 2862960,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 54744,
+      "byteOffset": 2866848,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 54744,
+      "byteOffset": 2921592,
+      "byteStride": 12,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 72992,
+      "byteOffset": 2976336,
+      "byteStride": 16,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 36496,
+      "byteOffset": 3049328,
+      "byteStride": 8,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 18248,
+      "byteOffset": 3085824,
+      "byteStride": 4,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 36496,
+      "byteOffset": 3104072,
+      "byteStride": 8,
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Stanleycup_data.bin",
+      "byteLength": 3140568
+    }
+  ],
+  "extensions": {
+    "KHR_lights_punctual": {
+      "lights": [
+        {
+          "color": [
+            0.8999999761581421,
+            0.8500000238418579,
+            0.75
+          ],
+          "extras": {
+            "nomad": {
+              "angle": 0,
+              "attachment": "fixed",
+              "color": [
+                0.8999999761581421,
+                0.8500000238418579,
+                0.75
+              ],
+              "contact_shadow": -1,
+              "contact_tolerance": 1,
+              "factor": 1,
+              "intensity": 1,
+              "kelvin": 5577,
+              "power": 11.170562744140625,
+              "shadow_cast": true,
+              "shadow_tolerance": 1,
+              "shadow_type": "shadow_map",
+              "size": 0,
+              "spot_angle": 0.7853981852531433,
+              "spot_softness": 0.5,
+              "type": "directional",
+              "use_kelvin": false,
+              "visible": true
+            }
+          },
+          "intensity": 1,
+          "name": "Light",
+          "type": "directional"
+        },
+        {
+          "color": [
+            0.7933323383331299,
+            0.05128394439816475,
+            0.6777821779251099
+          ],
+          "extras": {
+            "nomad": {
+              "angle": 0,
+              "attachment": "fixed",
+              "color": [
+                0.7933323383331299,
+                0.05128394439816475,
+                0.6777821779251099
+              ],
+              "contact_shadow": -1,
+              "contact_tolerance": 1,
+              "factor": 1,
+              "intensity": 1,
+              "kelvin": 5263,
+              "power": 13.40569019317627,
+              "shadow_cast": true,
+              "shadow_tolerance": 1,
+              "shadow_type": "shadow_map",
+              "size": 0,
+              "spot_angle": 0.7853981852531433,
+              "spot_softness": 0.5,
+              "type": "directional",
+              "use_kelvin": false,
+              "visible": true
+            }
+          },
+          "intensity": 1,
+          "name": "Light 1",
+          "type": "directional"
+        }
+      ]
+    }
+  },
+  "extensionsUsed": [
+    "KHR_materials_specular",
+    "KHR_materials_ior",
+    "KHR_materials_transmission",
+    "KHR_materials_volume",
+    "KHR_lights_punctual"
+  ],
+  "extras": {
+    "nomad": {
+      "add_array": "pivot",
+      "add_curve": "pivot",
+      "add_group": "pivot",
+      "add_mirror": "world",
+      "add_on_gizmo": false,
+      "add_radial": "local",
+      "add_select_gizmo": false,
+      "ask_review": true,
+      "auto_save_project": true,
+      "auto_save_project_popup": true,
+      "auto_save_project_seconds": 180,
+      "backface_color": [
+        0.7799999713897705,
+        0.44999998807907104,
+        0.20999999344348907,
+        0.6000000238418579
+      ],
+      "backface_colored": true,
+      "backface_visible": true,
+      "background_blur": 0.4000000059604645,
+      "background_color": [
+        0.21287670731544495,
+        0.3462197780609131,
+        0.2698964476585388
+      ],
+      "background_color2": [
+        0.004000000189989805,
+        0.003000000026077032,
+        0.003000000026077032
+      ],
+      "background_exposure": 1,
+      "background_gradient_value": 0,
+      "background_image_alpha": 1,
+      "background_image_display": false,
+      "background_image_name": "IMG_0233.png",
+      "background_image_overlay": 0,
+      "background_image_position": [
+        0.09873449802398682,
+        0.057476624846458435
+      ],
+      "background_image_rotation": 0,
+      "background_image_scale": 1,
+      "background_type": "color",
+      "bake_offset": 0.009999999776482582,
+      "bake_offset_enable": false,
+      "bake_radius": 0.5,
+      "bake_radius_enable": true,
+      "bake_texture_backup": false,
+      "bake_texture_color": true,
+      "bake_texture_emissive": true,
+      "bake_texture_metalness": true,
+      "bake_texture_normal": true,
+      "bake_texture_opacity": true,
+      "bake_texture_roughness": true,
+      "bake_texture_size": 4096,
+      "bake_texture_sphere_enable": false,
+      "bake_vertex_color": true,
+      "bake_vertex_faceGroup": true,
+      "bake_vertex_history": true,
+      "bake_vertex_iterations": 3,
+      "bake_vertex_layer_sync": true,
+      "bake_vertex_mask": false,
+      "bake_vertex_metalness": true,
+      "bake_vertex_normal": false,
+      "bake_vertex_normal_offset": 0.5,
+      "bake_vertex_opacity": true,
+      "bake_vertex_opacity_to_mask": false,
+      "bake_vertex_position": true,
+      "bake_vertex_ray_bias": 0.6000000238418579,
+      "bake_vertex_ray_enable": true,
+      "bake_vertex_relax": -1,
+      "bake_vertex_roughness": true,
+      "camera_first_person": false,
+      "camera_fovy": 25,
+      "camera_orthographic": true,
+      "camera_pan_speed": 1,
+      "camera_pivot": [
+        -1.0711607933044434,
+        2.25350284576416,
+        -0.06662631034851074
+      ],
+      "camera_rotate_speed": 1,
+      "camera_rotation": [
+        0.0011635422706604004,
+        0.9888579249382019,
+        0.007739865221083164,
+        0.1486566960811615
+      ],
+      "camera_rotation_type": "orbit",
+      "camera_snap_orthographic": false,
+      "camera_translation": [
+        -1.144075632095337,
+        -0.5581977367401123,
+        2.647905111312866
+      ],
+      "camera_turntable_speed": 0.23313947021961212,
+      "camera_zoom_speed": 1,
+      "cursor_indicator_circle": 0.5,
+      "cursor_indicator_color": [
+        0.10000000149011612,
+        0.699999988079071,
+        0.8999999761581421
+      ],
+      "cursor_indicator_enable": -1,
+      "cursor_indicator_icon": 0.5,
+      "cursor_indicator_size": 25,
+      "cursor_indicator_type": 7,
+      "cursor_show_dot": true,
+      "cursor_show_rope": true,
+      "cursor_while_sculpting": false,
+      "darken_unselected": false,
+      "decimate_bias_normal": 0.050999999046325684,
+      "decimate_has_bias_normal": true,
+      "decimate_has_paint_weight": true,
+      "decimate_keep_border_enable": true,
+      "decimate_keep_border_factor": 0.75,
+      "decimate_keep_group_enable": true,
+      "decimate_keep_group_factor": 0.75,
+      "decimate_keep_uv_enable": true,
+      "decimate_keep_uv_factor": 0.75,
+      "decimate_paint_weight": 64,
+      "dynamic_best_quality": 0,
+      "dynamic_detail_method": "zoom",
+      "dynamic_use_falloff": true,
+      "dynamic_use_pressure": true,
+      "env_attached_to_camera": true,
+      "env_enable": true,
+      "env_exposure": 0.41836148500442505,
+      "env_name": "artist_workshop_1k.hdr",
+      "env_rotation": 200.61749267578125,
+      "export_fbx_color0": true,
+      "export_fbx_layer": true,
+      "export_fbx_normal": false,
+      "export_gltf_color0": true,
+      "export_gltf_color1": true,
+      "export_gltf_culling": false,
+      "export_gltf_hires": true,
+      "export_gltf_layer": true,
+      "export_gltf_layerPaint": true,
+      "export_gltf_normal": true,
+      "export_gltf_tangent": true,
+      "export_gltf_texture": true,
+      "export_obj_color_append": true,
+      "export_obj_color_hexa": false,
+      "export_obj_color_srgb": false,
+      "export_obj_faceGroup": true,
+      "export_obj_normal": false,
+      "export_obj_object": false,
+      "export_obj_texture": true,
+      "export_obj_zip": false,
+      "export_ply_color0": true,
+      "export_ply_color1": true,
+      "export_stl_color": true,
+      "extract_xray": true,
+      "faceGroup_angle": 0.7853981852531433,
+      "faceGroup_preview": true,
+      "faceGroup_relax_intensity": 1,
+      "faceGroup_skip_area": 0.00009999999747378752,
+      "faceGroup_skip_area_enable": true,
+      "faceGroup_skip_face": 1,
+      "faceGroup_skip_face_enable": true,
+      "file_export": "gltf",
+      "gesture_air_pivot": true,
+      "gesture_allow_roll": true,
+      "gesture_allow_unknown_pressure": false,
+      "gesture_auto_update_pivot": true,
+      "gesture_bind_invert_zoom_y": false,
+      "gesture_bind_radius": "circle",
+      "gesture_camera": 7,
+      "gesture_double_tap_background": "toggle_scene",
+      "gesture_double_tap_focus": true,
+      "gesture_double_tap_pivot": true,
+      "gesture_dropper": 1,
+      "gesture_finger_always_smooth": false,
+      "gesture_gizmo": 7,
+      "gesture_hide_one_tap": true,
+      "gesture_mask_hold_idle": false,
+      "gesture_mask_hold_stroke": true,
+      "gesture_mask_one_tap": true,
+      "gesture_sculpt": 7,
+      "gesture_sculpt_offset": 0,
+      "gesture_select": 7,
+      "gesture_shortcut": "mask",
+      "gesture_size_rejection": 50,
+      "gesture_stroke_pivot": true,
+      "gesture_three_intensity": "horizontal",
+      "gesture_three_light": "horizontal",
+      "gesture_three_radius": "vertical",
+      "gesture_use_size_rejection": false,
+      "gizmo_auto_hide": true,
+      "gizmo_compact_handlers": 0,
+      "gizmo_input": false,
+      "gizmo_linear_roll_threshold": 20,
+      "gizmo_opacity": 1,
+      "gizmo_pin_copy": false,
+      "gizmo_size": 1.2999999523162842,
+      "gizmo_tap": "normal",
+      "gizmo_thickness": 1,
+      "grid_color": [
+        0.46561136841773987,
+        0.013725146651268005,
+        0.01439500879496336,
+        0.20000000298023224
+      ],
+      "grid_display": false,
+      "grid_snap": true,
+      "gui_access": false,
+      "gui_access_pos": [
+        200,
+        200
+      ],
+      "gui_blur_factor": 0.5,
+      "gui_collapse": {
+        "projects/": false
+      },
+      "gui_color_base": [
+        0.18000000715255737,
+        0.17000000178813934,
+        0.17000000178813934,
+        1
+      ],
+      "gui_color_base_transparent": [
+        0.75,
+        0.75,
+        0.75,
+        1
+      ],
+      "gui_color_select": [
+        0.699999988079071,
+        0.30000001192092896,
+        0.30000001192092896,
+        1
+      ],
+      "gui_color_style": "hsv_square",
+      "gui_context_bottom": true,
+      "gui_cursor_step": 40,
+      "gui_curve_symmetric": true,
+      "gui_expand_layer": false,
+      "gui_flip_bottom": false,
+      "gui_flip_middle": false,
+      "gui_flip_top": false,
+      "gui_font_scale": 1,
+      "gui_hover_help": true,
+      "gui_icon_support": -1,
+      "gui_inset_bottom": 0,
+      "gui_inset_custom_bottom": false,
+      "gui_inset_custom_left": false,
+      "gui_inset_custom_right": false,
+      "gui_inset_custom_top": false,
+      "gui_inset_left": 0,
+      "gui_inset_right": 0,
+      "gui_inset_top": 0,
+      "gui_instant": true,
+      "gui_node_focus": false,
+      "gui_panel_transparent": false,
+      "gui_panel_width": 350,
+      "gui_pin": {
+        "dynamic": false,
+        "grid": false,
+        "light_more": false,
+        "menu_left": true,
+        "menu_right": false,
+        "primitive_more": false,
+        "profile": false,
+        "quick_symmetry": false,
+        "remesh_more": false,
+        "repeat_more": false,
+        "voxel": false,
+        "wireframe": false
+      },
+      "gui_pointer_hover": false,
+      "gui_preview_scene": "material",
+      "gui_quadriflow": false,
+      "gui_quick": {
+        "camera_flip": false,
+        "camera_home": false,
+        "grid": true,
+        "inspect": true,
+        "lock_selection": false,
+        "log": false,
+        "perspective": false,
+        "redo": true,
+        "solo": true,
+        "undo": true,
+        "voxel_remesh": true,
+        "wireframe": true,
+        "xray": true
+      },
+      "gui_quick_scale_y": 1,
+      "gui_scale": 1,
+      "gui_stats_corner": "top_left",
+      "gui_stats_display": true,
+      "gui_sync_visibility": true,
+      "gui_toolbox_color": true,
+      "gui_toolbox_max_column": 6,
+      "gui_toolbox_max_row": 6,
+      "gui_toolbox_max_row_1": 6,
+      "gui_toolbox_persistent": true,
+      "gui_toolbox_root_all": false,
+      "gui_toolbox_show_all": true,
+      "gui_toolbox_transparent": true,
+      "gui_toolbox_use_max_row": false,
+      "gui_toolbox_use_max_row_1": false,
+      "gui_tools_order": [
+        "base_clay",
+        "base_brush",
+        "base_move",
+        "base_drag",
+        "base_smooth",
+        "base_mask",
+        "base_maskSelector",
+        "base_paint",
+        "Pic paint 2",
+        "Pic paint",
+        "base_smudge",
+        "base_flatten",
+        "base_planar",
+        "base_crease",
+        "base_pinch",
+        "base_trim",
+        "base_split",
+        "base_project",
+        "base_layer",
+        "base_inflate",
+        "base_nudge",
+        "base_stamp",
+        "base_clearLayer",
+        "base_tube",
+        "base_lathe",
+        "base_insert",
+        "base_transform",
+        "base_gizmo",
+        "base_faceGroup",
+        "base_hide",
+        "base_measure",
+        "base_remesh",
+        "base_select",
+        "base_lattice",
+        "base_view"
+      ],
+      "gui_top_layout": "multiline",
+      "handler_input": true,
+      "hide_symmetry": true,
+      "highlight_color": [
+        0.3499999940395355,
+        0.05000000074505806,
+        0.4399999976158142,
+        0.800000011920929
+      ],
+      "highlight_duration": 500,
+      "highlight_selection": true,
+      "history_gesture": true,
+      "history_gesture_hold": true,
+      "history_include_lights": true,
+      "history_include_post_process": true,
+      "history_include_shading": true,
+      "history_max_size": 500,
+      "history_range_protect": 30,
+      "history_restore_camera": false,
+      "hole_fill_reuse_group": -1,
+      "insert_sync_instance": false,
+      "inspect_channel": "none",
+      "inspect_channel_on_background": true,
+      "inspect_channel_on_mesh": true,
+      "inspect_seams": true,
+      "inspect_wireframe": true,
+      "inspect_wireframe_color": [
+        0.5,
+        0.5,
+        0.5,
+        1
+      ],
+      "lathe_axis": "fixed",
+      "lathe_sync_instance": false,
+      "layer_keep_details": false,
+      "layer_sync_transform": -1,
+      "layers_extract": "shell",
+      "layers_layer_shell": false,
+      "layers_polish": 10,
+      "layers_polish_method": "sharp",
+      "layers_polish_sync_border": false,
+      "layers_preview": "extract",
+      "layers_ring": 0,
+      "layers_ring_auto": true,
+      "layers_split_mask": "shell",
+      "layers_split_unmask": "shell",
+      "layers_thickness": -0.10000000149011612,
+      "layers_thickness_double": false,
+      "layers_thickness_mask": false,
+      "lights_enable": true,
+      "manifold_collapse_bias": 0.00019999999494757503,
+      "manifold_collapse_edges": false,
+      "mask_extract": "shell",
+      "mask_layer_shell": false,
+      "mask_polish": 10,
+      "mask_polish_method": "sharp",
+      "mask_polish_sync_border": false,
+      "mask_preview": "extract",
+      "mask_ring": 0,
+      "mask_ring_auto": true,
+      "mask_split_mask": "shell",
+      "mask_split_unmask": "shell",
+      "mask_thickness": 0.10000000149011612,
+      "mask_thickness_double": false,
+      "mask_thickness_mask": false,
+      "matcap_lock": true,
+      "matcap_name": "linko_mud.png",
+      "material": {
+        "alpha_name": "none",
+        "color": [
+          1,
+          0.6427028179168701,
+          0.15257658064365387
+        ],
+        "fill_hide": true,
+        "fill_intensity": false,
+        "fill_layer": false,
+        "fill_mask": true,
+        "fill_vertex": true,
+        "intensity": 16.714000701904297,
+        "metalness": 1,
+        "opacity": 1,
+        "roughness": 0.261363685131073,
+        "texture_color_name": "none",
+        "texture_metalness_name": "none",
+        "texture_opacity_name": "none",
+        "texture_roughness_name": "none",
+        "use_alpha": true,
+        "use_color": true,
+        "use_falloff": true,
+        "use_jitter": true,
+        "use_metalness": true,
+        "use_opacity": false,
+        "use_roughness": true,
+        "version": 1
+      },
+      "material_alpha": true,
+      "material_embed": true,
+      "multimesh_lowres_vertices": 500000,
+      "multimesh_max_vertices": 10000000,
+      "multimesh_min_wireframe": false,
+      "new_reset_background": true,
+      "new_reset_environment": true,
+      "new_reset_matcap": true,
+      "new_reset_xray": true,
+      "outline_color": [
+        0.5199999809265137,
+        0.029999999329447746,
+        0.05999999865889549,
+        1
+      ],
+      "outline_display": false,
+      "outline_thickness": 1,
+      "pp_accumulate_count": 50,
+      "pp_accumulate_enable": true,
+      "pp_bloom_enable": false,
+      "pp_bloom_intensity": 1,
+      "pp_bloom_radius": 0.6000000238418579,
+      "pp_bloom_threshold": 0.25,
+      "pp_chromatic_enable": false,
+      "pp_chromatic_factor": 0.5,
+      "pp_curvature_bump": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "pp_curvature_cavity": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "pp_curvature_enable": false,
+      "pp_curvature_factor": 1,
+      "pp_curve_blue": {
+        "curve": {
+          "closed": false,
+          "mirror_x": false,
+          "mirror_y": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ]
+          ],
+          "reference_x": 0,
+          "reference_y": 1,
+          "sharps": [
+            0,
+            0
+          ],
+          "type": "catmull-rom",
+          "ui_snap": true,
+          "ui_step": 0.20000000298023224,
+          "ui_step_auto": true,
+          "uniform": true
+        },
+        "power": 2,
+        "preset": "linear",
+        "shift": 0
+      },
+      "pp_curve_enable": false,
+      "pp_curve_green": {
+        "curve": {
+          "closed": false,
+          "mirror_x": false,
+          "mirror_y": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ]
+          ],
+          "reference_x": 0,
+          "reference_y": 1,
+          "sharps": [
+            0,
+            0
+          ],
+          "type": "catmull-rom",
+          "ui_snap": true,
+          "ui_step": 0.20000000298023224,
+          "ui_step_auto": true,
+          "uniform": true
+        },
+        "power": 2,
+        "preset": "linear",
+        "shift": 0
+      },
+      "pp_curve_luminance": {
+        "curve": {
+          "closed": false,
+          "mirror_x": false,
+          "mirror_y": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ]
+          ],
+          "reference_x": 0,
+          "reference_y": 1,
+          "sharps": [
+            0,
+            0
+          ],
+          "type": "catmull-rom",
+          "ui_snap": true,
+          "ui_step": 0.20000000298023224,
+          "ui_step_auto": true,
+          "uniform": true
+        },
+        "power": 2,
+        "preset": "linear",
+        "shift": 0
+      },
+      "pp_curve_red": {
+        "curve": {
+          "closed": false,
+          "mirror_x": false,
+          "mirror_y": false,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              1,
+              1
+            ]
+          ],
+          "reference_x": 0,
+          "reference_y": 1,
+          "sharps": [
+            0,
+            0
+          ],
+          "type": "catmull-rom",
+          "ui_snap": true,
+          "ui_step": 0.20000000298023224,
+          "ui_step_auto": true,
+          "uniform": true
+        },
+        "power": 2,
+        "preset": "linear",
+        "shift": 0
+      },
+      "pp_dithering": true,
+      "pp_dof_blur_far": 0.5,
+      "pp_dof_blur_near": 0.5,
+      "pp_dof_enable": false,
+      "pp_enable": false,
+      "pp_full_resolution": false,
+      "pp_grain_enable": false,
+      "pp_grain_factor": 0.25,
+      "pp_max_samples": false,
+      "pp_pixel_art_allow_accumulate": false,
+      "pp_pixel_art_enable": false,
+      "pp_pixel_art_ratio": 5,
+      "pp_render_ratio": 1.25,
+      "pp_scanline_enable": false,
+      "pp_scanline_factor": 1,
+      "pp_scanline_spacing": 1,
+      "pp_sharpness_enable": false,
+      "pp_sharpness_factor": 0.5,
+      "pp_ssao_bias": 0.013434805907309055,
+      "pp_ssao_enable": true,
+      "pp_ssao_factor": 0.30000001192092896,
+      "pp_ssao_radius": 0.18935838341712952,
+      "pp_ssgi_enable": true,
+      "pp_ssgi_factor": 1,
+      "pp_ssr_enable": false,
+      "pp_tone_contrast": 0,
+      "pp_tone_enable": false,
+      "pp_tone_exposure": 1,
+      "pp_tone_mapping": "kajiya",
+      "pp_tone_saturation": 1,
+      "pp_vignette_enable": false,
+      "pp_vignette_hardness": 0.5,
+      "pp_vignette_size": 0.5,
+      "pressure": {
+        "average": 10,
+        "curve_intensity": {
+          "curve": {
+            "closed": false,
+            "mirror_x": false,
+            "mirror_y": false,
+            "points": [
+              [
+                0,
+                0.20000000298023224
+              ],
+              [
+                1,
+                1
+              ]
+            ],
+            "reference_x": 0,
+            "reference_y": 1,
+            "sharps": [
+              0,
+              0
+            ],
+            "type": "none",
+            "ui_snap": true,
+            "ui_step": 0.20000000298023224,
+            "ui_step_auto": true,
+            "uniform": true
+          },
+          "power": 2,
+          "preset": "one",
+          "shift": 0
+        },
+        "curve_radius": {
+          "curve": {
+            "closed": false,
+            "mirror_x": false,
+            "mirror_y": false,
+            "points": [
+              [
+                0,
+                0.20000000298023224
+              ],
+              [
+                1,
+                1
+              ]
+            ],
+            "reference_x": 0,
+            "reference_y": 1,
+            "sharps": [
+              0,
+              0
+            ],
+            "type": "none",
+            "ui_snap": true,
+            "ui_step": 0.20000000298023224,
+            "ui_step_auto": true,
+            "uniform": true
+          },
+          "power": 2,
+          "preset": "one",
+          "shift": 0
+        },
+        "use_intensity": true,
+        "use_radius": true,
+        "version": 1
+      },
+      "profile_viewport": false,
+      "recent_project": "Stanley cup.nom",
+      "repeat_validate_type": "join_children",
+      "shader_type": "pbr",
+      "shape_auto_validate": true,
+      "shape_ellipse_centered": false,
+      "shape_ellipse_circle": true,
+      "shape_line_snap_angle": 0,
+      "shape_loop_closed": true,
+      "shape_precision": 0.5,
+      "shape_rectangle_centered": false,
+      "shape_rectangle_square": false,
+      "shape_screen_pin": true,
+      "shape_spline": true,
+      "show_hierarchy_nomad_pivot": true,
+      "show_icon_alpha": 0.5690000057220459,
+      "show_icon_camera": true,
+      "show_icon_group": false,
+      "show_icon_light": false,
+      "show_icon_repeat": true,
+      "show_icon_size_range": [
+        30,
+        60
+      ],
+      "smooth_shading": true,
+      "snap_cube": true,
+      "snap_cube_align": -1,
+      "snap_cube_corner": "top_right",
+      "snap_cube_flit": true,
+      "snap_cube_shape": "sphere",
+      "snap_cube_size": 80,
+      "tools_use_share_radius": false,
+      "tools_use_world_radius": false,
+      "trim_border_detail": 1,
+      "trim_hole_detail": 1,
+      "trim_interior_detail": 1,
+      "trim_method": "boolean",
+      "trim_sync_detail": true,
+      "tube_snap": "start_end",
+      "tube_snap_offset": 0,
+      "tube_sync_instance": false,
+      "unwrap_atlas_gutter": 2,
+      "unwrap_atlas_max_stretch": 0.1666666716337204,
+      "unwrap_auto_resolution": true,
+      "unwrap_bake": true,
+      "unwrap_bff_cones": 8,
+      "unwrap_bff_seamless": false,
+      "unwrap_faceGroup": true,
+      "uv_generate": true,
+      "version": 12,
+      "wireframe_color": [
+        0,
+        0,
+        0,
+        0.6000000238418579
+      ],
+      "wireframe_discard": -1,
+      "wireframe_target": "all",
+      "xray_color": [
+        1,
+        1,
+        1,
+        0.699999988079071
+      ],
+      "xray_matcap": "silvermindyaar_black_stone.png",
+      "xray_target": "unselected"
+    }
+  },
+  "images": [
+    {
+      "name": "Logo new color.png",
+      "uri": "Stanleycup_img0.png"
+    },
+    {
+      "name": "Logo new roughness_1_metal_rough.png",
+      "uri": "Stanleycup_img1.png"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "OPAQUE",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_ior": {
+          "ior": 1
+        },
+        "KHR_materials_specular": {
+          "specularFactor": 2
+        },
+        "KHR_materials_transmission": {
+          "transmissionFactor": 1
+        },
+        "KHR_materials_volume": {
+          "attenuationColor": [
+            1,
+            0.9375152587890625,
+            0.9375152587890625
+          ],
+          "attenuationDistance": 548.3563842773438,
+          "thicknessFactor": 0.9988673329353333
+        }
+      },
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 1,
+        "metallicRoughnessTexture": {
+          "index": 1
+        },
+        "roughnessFactor": 1
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          0.594119668006897,
+          0.8127700090408325,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "alphaMode": "OPAQUE",
+      "doubleSided": true,
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          0.594119668006897,
+          0.8127700090408325,
+          1
+        ],
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "extras": {
+        "nomad": {
+          "absorption_albedo": false,
+          "absorption_color": [
+            0.3799999952316284,
+            0.16300000250339508,
+            0.08399999886751175
+          ],
+          "absorption_enable": false,
+          "absorption_factor": 0.5,
+          "active_layer": -1,
+          "always_unlit": false,
+          "backface_colored": -1,
+          "cast_shadow": -1,
+          "color": [
+            1,
+            1,
+            1
+          ],
+          "dynamic_local_edge_length": 0.006666688714176416,
+          "factorColor": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissive": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissiveStrength": 1,
+          "factorMetalness": 1,
+          "factorNormal": 1,
+          "factorOcclusion": 1,
+          "factorOpacity": 1,
+          "factorRoughness": 1,
+          "flip_culling": false,
+          "flip_y": -1,
+          "groups": [
+            {
+              "color": [
+                0.14130151271820068,
+                0.7569916248321533,
+                0.28947991132736206
+              ],
+              "name": "Front"
+            },
+            {
+              "color": [
+                0.6925211548805237,
+                0.07080391049385071,
+                0.09289218485355377
+              ],
+              "name": "Right"
+            },
+            {
+              "color": [
+                0.1420929878950119,
+                0.12807781994342804,
+                0.645139217376709
+              ],
+              "name": "Back"
+            },
+            {
+              "color": [
+                0.6092770099639893,
+                0.41850176453590393,
+                0.07509753108024597
+              ],
+              "name": "Left"
+            },
+            {
+              "color": [
+                0.7184808254241943,
+                0.3060837686061859,
+                0.5232579708099365
+              ],
+              "name": "Top"
+            },
+            {
+              "color": [
+                0.23752416670322418,
+                0.5141733288764954,
+                0.6961819529533386
+              ],
+              "name": "Bottom"
+            },
+            {
+              "color": [
+                0.7357285022735596,
+                0.2353491485118866,
+                0.06959739327430725
+              ],
+              "name": "Front"
+            },
+            {
+              "color": [
+                0.20410199463367462,
+                0.6763823628425598,
+                0.7501401901245117
+              ],
+              "name": "Right"
+            },
+            {
+              "color": [
+                0.24071523547172546,
+                0.09753565490245819,
+                0.628467857837677
+              ],
+              "name": "Back"
+            },
+            {
+              "color": [
+                0.2082517147064209,
+                0.6252626776695251,
+                0.07877413928508759
+              ],
+              "name": "Left"
+            },
+            {
+              "color": [
+                0.7150274515151978,
+                0.5405619144439697,
+                0.3044225871562958
+              ],
+              "name": "Top"
+            },
+            {
+              "color": [
+                0.7087077498435974,
+                0.22654922306537628,
+                0.5334823131561279
+              ],
+              "name": "Bottom"
+            }
+          ],
+          "index_group": 6,
+          "keep_order": 0,
+          "material_type": "opaque",
+          "mesh_type": "mesh",
+          "metalness": 0,
+          "opacity": 1,
+          "receive_shadow": -1,
+          "reflectance": 0.5,
+          "refraction_interior_roughness": 0,
+          "refraction_ior": 1.3300000429153442,
+          "refraction_surface_roughness": 0,
+          "roughness": 0.25,
+          "smooth_shading": -1,
+          "subdiv_linear": false,
+          "subdiv_lock0": false,
+          "subdiv_method": "catmull",
+          "subdiv_sharp_group": false,
+          "subdiv_sticky_border": false,
+          "subsurface_color": [
+            1,
+            0.20000000298023224,
+            0.10000000149011612
+          ],
+          "subsurface_depth": -1,
+          "symmetry_frame": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "symmetry_local": false,
+          "symmetry_radial_x": 1,
+          "symmetry_radial_y": 1,
+          "symmetry_radial_z": 1,
+          "symmetry_sculpt": true,
+          "symmetry_transform": false,
+          "symmetry_x": true,
+          "symmetry_y": false,
+          "symmetry_z": false,
+          "translucency": true,
+          "translucency_factor": 1,
+          "two_sided": -1,
+          "use_color_opacity": 1,
+          "version": 1,
+          "voxel_local_edge_length": 0.006666688714176416,
+          "voxel_qef": false,
+          "voxel_sub_level": -1,
+          "wireframe_visible": -1
+        }
+      },
+      "name": "Lid seal",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 15,
+            "COLOR_1": 16,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 17
+          },
+          "extras": {
+            "nomad": {
+              "group": 0
+            }
+          },
+          "indices": 0,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "COLOR_0": 15,
+            "COLOR_1": 16,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 17
+          },
+          "extras": {
+            "nomad": {
+              "group": 1
+            }
+          },
+          "indices": 1,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "COLOR_0": 15,
+            "COLOR_1": 16,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 17
+          },
+          "extras": {
+            "nomad": {
+              "group": 2
+            }
+          },
+          "indices": 2,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "COLOR_0": 15,
+            "COLOR_1": 16,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 17
+          },
+          "extras": {
+            "nomad": {
+              "group": 3
+            }
+          },
+          "indices": 3,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "COLOR_0": 15,
+            "COLOR_1": 16,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 17
+          },
+          "extras": {
+            "nomad": {
+              "group": 4
+            }
+          },
+          "indices": 4,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "COLOR_0": 15,
+            "COLOR_1": 16,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 17
+          },
+          "extras": {
+            "nomad": {
+              "group": 5
+            }
+          },
+          "indices": 5,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "COLOR_0": 15,
+            "COLOR_1": 16,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 17
+          },
+          "extras": {
+            "nomad": {
+              "group": 6
+            }
+          },
+          "indices": 6,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "COLOR_0": 15,
+            "COLOR_1": 16,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 17
+          },
+          "extras": {
+            "nomad": {
+              "group": 7
+            }
+          },
+          "indices": 7,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "COLOR_0": 15,
+            "COLOR_1": 16,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 17
+          },
+          "extras": {
+            "nomad": {
+              "group": 8
+            }
+          },
+          "indices": 8,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "COLOR_0": 15,
+            "COLOR_1": 16,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 17
+          },
+          "extras": {
+            "nomad": {
+              "group": 9
+            }
+          },
+          "indices": 9,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "COLOR_0": 15,
+            "COLOR_1": 16,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 17
+          },
+          "extras": {
+            "nomad": {
+              "group": 10
+            }
+          },
+          "indices": 10,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "COLOR_0": 15,
+            "COLOR_1": 16,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TANGENT": 14,
+            "TEXCOORD_0": 17
+          },
+          "extras": {
+            "nomad": {
+              "group": 11
+            }
+          },
+          "indices": 11,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "extras": {
+        "nomad": {
+          "absorption_albedo": false,
+          "absorption_color": [
+            1,
+            0.9375152587890625,
+            0.9375152587890625
+          ],
+          "absorption_enable": true,
+          "absorption_factor": 0.00024231476709246635,
+          "active_layer": -1,
+          "always_unlit": false,
+          "backface_colored": -1,
+          "cast_shadow": -1,
+          "color": [
+            1,
+            1,
+            1
+          ],
+          "dynamic_local_edge_length": 0.006666664499789476,
+          "factorColor": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissive": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissiveStrength": 1,
+          "factorMetalness": 1,
+          "factorNormal": 1,
+          "factorOcclusion": 1,
+          "factorOpacity": 1,
+          "factorRoughness": 1,
+          "flip_culling": false,
+          "flip_y": -1,
+          "groups": [
+            {
+              "color": [
+                0.6124992966651917,
+                0.18866629898548126,
+                0.6589872241020203
+              ],
+              "name": "Main"
+            },
+            {
+              "color": [
+                0.33094918727874756,
+                0.675104558467865,
+                0.0724925547838211
+              ],
+              "name": "Bottom"
+            },
+            {
+              "color": [
+                0.0739860013127327,
+                0.5178764462471008,
+                0.7852233052253723
+              ],
+              "name": "Top"
+            }
+          ],
+          "index_group": 0,
+          "keep_order": 0,
+          "material_type": "refraction",
+          "mesh_type": "multiresolution",
+          "metalness": 0,
+          "multires_level": 0,
+          "multires_level_count": 1,
+          "opacity": 2.5249998569488525,
+          "receive_shadow": -1,
+          "reflectance": 1,
+          "refraction_interior_roughness": 0,
+          "refraction_ior": 1,
+          "refraction_surface_roughness": 0,
+          "roughness": 0.25,
+          "smooth_shading": -1,
+          "subdiv_linear": false,
+          "subdiv_lock0": false,
+          "subdiv_method": "catmull",
+          "subdiv_sharp_group": false,
+          "subdiv_sticky_border": false,
+          "subsurface_color": [
+            1,
+            0.20000000298023224,
+            0.10000000149011612
+          ],
+          "subsurface_depth": 0.08867143094539642,
+          "symmetry_frame": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "symmetry_local": false,
+          "symmetry_radial_x": 1,
+          "symmetry_radial_y": 1,
+          "symmetry_radial_z": 1,
+          "symmetry_sculpt": true,
+          "symmetry_transform": false,
+          "symmetry_x": true,
+          "symmetry_y": false,
+          "symmetry_z": false,
+          "translucency": true,
+          "translucency_factor": 0.11818966269493103,
+          "two_sided": -1,
+          "use_color_opacity": 1,
+          "version": 1,
+          "voxel_local_edge_length": 0.006666684523224831,
+          "voxel_qef": false,
+          "voxel_sub_level": -1,
+          "wireframe_visible": -1
+        }
+      },
+      "name": "Straw",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 24,
+            "COLOR_1": 25,
+            "NORMAL": 22,
+            "POSITION": 21,
+            "TANGENT": 23,
+            "TEXCOORD_0": 26
+          },
+          "extras": {
+            "nomad": {
+              "group": 0
+            }
+          },
+          "indices": 18,
+          "material": 1
+        },
+        {
+          "attributes": {
+            "COLOR_0": 24,
+            "COLOR_1": 25,
+            "NORMAL": 22,
+            "POSITION": 21,
+            "TANGENT": 23,
+            "TEXCOORD_0": 26
+          },
+          "extras": {
+            "nomad": {
+              "group": 1
+            }
+          },
+          "indices": 19,
+          "material": 1
+        },
+        {
+          "attributes": {
+            "COLOR_0": 24,
+            "COLOR_1": 25,
+            "NORMAL": 22,
+            "POSITION": 21,
+            "TANGENT": 23,
+            "TEXCOORD_0": 26
+          },
+          "extras": {
+            "nomad": {
+              "group": 2
+            }
+          },
+          "indices": 20,
+          "material": 1
+        }
+      ]
+    },
+    {
+      "extras": {
+        "nomad": {
+          "absorption_albedo": false,
+          "absorption_color": [
+            0.3799999952316284,
+            0.16300000250339508,
+            0.08399999886751175
+          ],
+          "absorption_enable": false,
+          "absorption_factor": 0.5,
+          "active_layer": -1,
+          "always_unlit": false,
+          "backface_colored": -1,
+          "cast_shadow": -1,
+          "color": [
+            1,
+            1,
+            1
+          ],
+          "dynamic_local_edge_length": 0.0066666672937572,
+          "factorColor": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissive": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissiveStrength": 1,
+          "factorMetalness": 1,
+          "factorNormal": 1,
+          "factorOcclusion": 1,
+          "factorOpacity": 1,
+          "factorRoughness": 1,
+          "flip_culling": false,
+          "flip_y": -1,
+          "groups": [
+            {
+              "color": [
+                0.18621358275413513,
+                0.2640332579612732,
+                0.7809194326400757
+              ],
+              "name": "Main"
+            },
+            {
+              "color": [
+                0.3852163553237915,
+                0.7497115731239319,
+                0.07209673523902893
+              ],
+              "name": "Bottom"
+            },
+            {
+              "color": [
+                0.6593393087387085,
+                0.16258682310581207,
+                0.14634443819522858
+              ],
+              "name": "Top"
+            }
+          ],
+          "index_group": 0,
+          "keep_order": 0,
+          "material_type": "opaque",
+          "mesh_type": "multiresolution",
+          "metalness": 0,
+          "multires_level": 0,
+          "multires_level_count": 1,
+          "opacity": 1,
+          "receive_shadow": -1,
+          "reflectance": 0.5,
+          "refraction_interior_roughness": 0,
+          "refraction_ior": 1.3300000429153442,
+          "refraction_surface_roughness": 0,
+          "roughness": 0.25,
+          "smooth_shading": -1,
+          "subdiv_linear": false,
+          "subdiv_lock0": false,
+          "subdiv_method": "catmull",
+          "subdiv_sharp_group": false,
+          "subdiv_sticky_border": false,
+          "subsurface_color": [
+            1,
+            0.20000000298023224,
+            0.10000000149011612
+          ],
+          "subsurface_depth": -1,
+          "symmetry_frame": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "symmetry_local": false,
+          "symmetry_radial_x": 1,
+          "symmetry_radial_y": 1,
+          "symmetry_radial_z": 1,
+          "symmetry_sculpt": true,
+          "symmetry_transform": false,
+          "symmetry_x": true,
+          "symmetry_y": false,
+          "symmetry_z": false,
+          "translucency": true,
+          "translucency_factor": 1,
+          "two_sided": -1,
+          "use_color_opacity": 1,
+          "version": 1,
+          "voxel_local_edge_length": 0.006666670087724924,
+          "voxel_qef": false,
+          "voxel_sub_level": -1,
+          "wireframe_visible": -1
+        }
+      },
+      "name": "Lid",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 32,
+            "COLOR_1": 33,
+            "NORMAL": 30,
+            "POSITION": 29,
+            "TANGENT": 31,
+            "TEXCOORD_0": 34
+          },
+          "extras": {
+            "nomad": {
+              "group": 0
+            }
+          },
+          "indices": 27,
+          "material": 2
+        },
+        {
+          "attributes": {
+            "COLOR_0": 32,
+            "COLOR_1": 33,
+            "NORMAL": 30,
+            "POSITION": 29,
+            "TANGENT": 31,
+            "TEXCOORD_0": 34
+          },
+          "extras": {
+            "nomad": {
+              "group": 1
+            }
+          },
+          "indices": 28,
+          "material": 2
+        }
+      ]
+    },
+    {
+      "extras": {
+        "nomad": {
+          "absorption_albedo": false,
+          "absorption_color": [
+            0.3799999952316284,
+            0.16300000250339508,
+            0.08399999886751175
+          ],
+          "absorption_enable": false,
+          "absorption_factor": 0.5,
+          "active_layer": -1,
+          "always_unlit": false,
+          "backface_colored": -1,
+          "cast_shadow": -1,
+          "color": [
+            1,
+            1,
+            1
+          ],
+          "dynamic_local_edge_length": 0.006666666828095913,
+          "factorColor": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissive": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissiveStrength": 1,
+          "factorMetalness": 1,
+          "factorNormal": 1,
+          "factorOcclusion": 1,
+          "factorOpacity": 1,
+          "factorRoughness": 1,
+          "flip_culling": false,
+          "flip_y": -1,
+          "groups": [
+            {
+              "color": [
+                0.18621358275413513,
+                0.2640332579612732,
+                0.7809194326400757
+              ],
+              "name": "Main"
+            },
+            {
+              "color": [
+                0.3852163553237915,
+                0.7497115731239319,
+                0.07209673523902893
+              ],
+              "name": "Bottom"
+            },
+            {
+              "color": [
+                0.6593393087387085,
+                0.16258682310581207,
+                0.14634443819522858
+              ],
+              "name": "Top"
+            }
+          ],
+          "index_group": 0,
+          "keep_order": 0,
+          "material_type": "opaque",
+          "mesh_type": "multiresolution",
+          "metalness": 0,
+          "multires_level": 0,
+          "multires_level_count": 1,
+          "opacity": 1,
+          "receive_shadow": -1,
+          "reflectance": 0.5,
+          "refraction_interior_roughness": 0,
+          "refraction_ior": 1.3300000429153442,
+          "refraction_surface_roughness": 0,
+          "roughness": 0.25,
+          "smooth_shading": -1,
+          "subdiv_linear": false,
+          "subdiv_lock0": false,
+          "subdiv_method": "catmull",
+          "subdiv_sharp_group": false,
+          "subdiv_sticky_border": false,
+          "subsurface_color": [
+            1,
+            0.20000000298023224,
+            0.10000000149011612
+          ],
+          "subsurface_depth": -1,
+          "symmetry_frame": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "symmetry_local": false,
+          "symmetry_radial_x": 1,
+          "symmetry_radial_y": 1,
+          "symmetry_radial_z": 1,
+          "symmetry_sculpt": true,
+          "symmetry_transform": false,
+          "symmetry_x": true,
+          "symmetry_y": false,
+          "symmetry_z": false,
+          "translucency": true,
+          "translucency_factor": 1,
+          "two_sided": -1,
+          "use_color_opacity": 1,
+          "version": 1,
+          "voxel_local_edge_length": 0.006666669622063637,
+          "voxel_qef": false,
+          "voxel_sub_level": -1,
+          "wireframe_visible": -1
+        }
+      },
+      "name": "Lid 1",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 40,
+            "COLOR_1": 41,
+            "NORMAL": 38,
+            "POSITION": 37,
+            "TANGENT": 39,
+            "TEXCOORD_0": 42
+          },
+          "extras": {
+            "nomad": {
+              "group": 0
+            }
+          },
+          "indices": 35,
+          "material": 3
+        },
+        {
+          "attributes": {
+            "COLOR_0": 40,
+            "COLOR_1": 41,
+            "NORMAL": 38,
+            "POSITION": 37,
+            "TANGENT": 39,
+            "TEXCOORD_0": 42
+          },
+          "extras": {
+            "nomad": {
+              "group": 1
+            }
+          },
+          "indices": 36,
+          "material": 3
+        }
+      ]
+    },
+    {
+      "extras": {
+        "nomad": {
+          "absorption_albedo": false,
+          "absorption_color": [
+            0.3799999952316284,
+            0.16300000250339508,
+            0.08399999886751175
+          ],
+          "absorption_enable": false,
+          "absorption_factor": 0.5,
+          "active_layer": -1,
+          "always_unlit": false,
+          "backface_colored": -1,
+          "cast_shadow": -1,
+          "color": [
+            1,
+            1,
+            1
+          ],
+          "dynamic_local_edge_length": 0.006666700821369886,
+          "factorColor": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissive": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissiveStrength": 1,
+          "factorMetalness": 1,
+          "factorNormal": 1,
+          "factorOcclusion": 1,
+          "factorOpacity": 1,
+          "factorRoughness": 1,
+          "flip_culling": false,
+          "flip_y": -1,
+          "groups": [
+            {
+              "color": [
+                0.15875166654586792,
+                0.7622689008712769,
+                0.346987247467041
+              ],
+              "name": "Patch"
+            }
+          ],
+          "index_group": 0,
+          "keep_order": 0,
+          "material_type": "opaque",
+          "mesh_type": "mesh",
+          "metalness": 0,
+          "opacity": 1,
+          "receive_shadow": -1,
+          "reflectance": 0.5,
+          "refraction_interior_roughness": 0,
+          "refraction_ior": 1.3300000429153442,
+          "refraction_surface_roughness": 0,
+          "roughness": 0.25,
+          "smooth_shading": -1,
+          "subdiv_linear": false,
+          "subdiv_lock0": false,
+          "subdiv_method": "catmull",
+          "subdiv_sharp_group": false,
+          "subdiv_sticky_border": false,
+          "subsurface_color": [
+            1,
+            0.20000000298023224,
+            0.10000000149011612
+          ],
+          "subsurface_depth": 0.21147553622722626,
+          "symmetry_frame": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "symmetry_local": false,
+          "symmetry_radial_x": 1,
+          "symmetry_radial_y": 1,
+          "symmetry_radial_z": 1,
+          "symmetry_sculpt": false,
+          "symmetry_transform": false,
+          "symmetry_x": true,
+          "symmetry_y": false,
+          "symmetry_z": false,
+          "textures": {
+            "color": {
+              "magFilter": "auto",
+              "minFilter": "auto",
+              "name": "Logo new color.png",
+              "offset": [
+                0,
+                0
+              ],
+              "projection": "auto",
+              "rotation": 0,
+              "scale": [
+                1,
+                1
+              ],
+              "triplanar_hardness": [
+                0.8999999761581421,
+                0.8999999761581421,
+                0.8999999761581421
+              ],
+              "triplanar_world": true,
+              "wrapS": "repeat",
+              "wrapT": "repeat"
+            },
+            "metalness": {
+              "magFilter": "auto",
+              "minFilter": "auto",
+              "name": "Logo new metalness.png",
+              "offset": [
+                0,
+                0
+              ],
+              "projection": "auto",
+              "rotation": 0,
+              "scale": [
+                1,
+                1
+              ],
+              "triplanar_hardness": [
+                0.8999999761581421,
+                0.8999999761581421,
+                0.8999999761581421
+              ],
+              "triplanar_world": true,
+              "wrapS": "repeat",
+              "wrapT": "repeat"
+            },
+            "roughness": {
+              "magFilter": "auto",
+              "minFilter": "auto",
+              "name": "Logo new roughness.png",
+              "offset": [
+                0,
+                0
+              ],
+              "projection": "auto",
+              "rotation": 0,
+              "scale": [
+                1,
+                1
+              ],
+              "triplanar_hardness": [
+                0.8999999761581421,
+                0.8999999761581421,
+                0.8999999761581421
+              ],
+              "triplanar_world": true,
+              "wrapS": "repeat",
+              "wrapT": "repeat"
+            }
+          },
+          "translucency": true,
+          "translucency_factor": 1,
+          "two_sided": -1,
+          "use_color_opacity": 1,
+          "version": 1,
+          "voxel_local_edge_length": 0.006666699890047312,
+          "voxel_qef": false,
+          "voxel_sub_level": -1,
+          "wireframe_visible": -1
+        }
+      },
+      "name": "Logo new",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 47,
+            "COLOR_1": 48,
+            "NORMAL": 45,
+            "POSITION": 44,
+            "TANGENT": 46,
+            "TEXCOORD_0": 49
+          },
+          "extras": {
+            "nomad": {
+              "group": 0
+            }
+          },
+          "indices": 43,
+          "material": 4
+        }
+      ]
+    },
+    {
+      "extras": {
+        "nomad": {
+          "absorption_albedo": false,
+          "absorption_color": [
+            0.3799999952316284,
+            0.16300000250339508,
+            0.08399999886751175
+          ],
+          "absorption_enable": false,
+          "absorption_factor": 0.5,
+          "active_layer": -1,
+          "always_unlit": false,
+          "backface_colored": -1,
+          "cast_shadow": -1,
+          "color": [
+            1,
+            0.594119668006897,
+            0.8127700090408325
+          ],
+          "dynamic_local_edge_length": 0.0066666873171925545,
+          "factorColor": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissive": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissiveStrength": 1,
+          "factorMetalness": 1,
+          "factorNormal": 1,
+          "factorOcclusion": 1,
+          "factorOpacity": 1,
+          "factorRoughness": 1,
+          "flip_culling": false,
+          "flip_y": -1,
+          "groups": [
+            {
+              "color": [
+                0.6294801235198975,
+                0.19444848597049713,
+                0.3306474983692169
+              ],
+              "name": "Main"
+            },
+            {
+              "color": [
+                0.06589371711015701,
+                0.6643226146697998,
+                0.6464884281158447
+              ],
+              "name": "Bottom"
+            },
+            {
+              "color": [
+                0.3869032859802246,
+                0.6281226873397827,
+                0.07395708560943604
+              ],
+              "name": "Top"
+            }
+          ],
+          "index_group": 0,
+          "keep_order": 0,
+          "material_type": "opaque",
+          "mesh_type": "multiresolution",
+          "metalness": 0,
+          "multires_level": 0,
+          "multires_level_count": 1,
+          "opacity": 1,
+          "receive_shadow": -1,
+          "reflectance": 0.5,
+          "refraction_interior_roughness": 0,
+          "refraction_ior": 1.3300000429153442,
+          "refraction_surface_roughness": 0,
+          "roughness": 0.25,
+          "smooth_shading": -1,
+          "subdiv_linear": false,
+          "subdiv_lock0": false,
+          "subdiv_method": "catmull",
+          "subdiv_sharp_group": false,
+          "subdiv_sticky_border": false,
+          "subsurface_color": [
+            1,
+            0.20000000298023224,
+            0.10000000149011612
+          ],
+          "subsurface_depth": -1,
+          "symmetry_frame": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "symmetry_local": false,
+          "symmetry_radial_x": 1,
+          "symmetry_radial_y": 1,
+          "symmetry_radial_z": 1,
+          "symmetry_sculpt": false,
+          "symmetry_transform": false,
+          "symmetry_x": true,
+          "symmetry_y": false,
+          "symmetry_z": false,
+          "translucency": true,
+          "translucency_factor": 1,
+          "two_sided": -1,
+          "use_color_opacity": 1,
+          "version": 1,
+          "voxel_local_edge_length": 0.00666670361533761,
+          "voxel_qef": false,
+          "voxel_sub_level": -1,
+          "wireframe_visible": -1
+        }
+      },
+      "name": "Main cup container",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 55,
+            "COLOR_1": 56,
+            "NORMAL": 53,
+            "POSITION": 52,
+            "TANGENT": 54,
+            "TEXCOORD_0": 57
+          },
+          "extras": {
+            "nomad": {
+              "group": 0
+            }
+          },
+          "indices": 50,
+          "material": 5
+        },
+        {
+          "attributes": {
+            "COLOR_0": 55,
+            "COLOR_1": 56,
+            "NORMAL": 53,
+            "POSITION": 52,
+            "TANGENT": 54,
+            "TEXCOORD_0": 57
+          },
+          "extras": {
+            "nomad": {
+              "group": 1
+            }
+          },
+          "indices": 51,
+          "material": 5
+        }
+      ]
+    },
+    {
+      "extras": {
+        "nomad": {
+          "absorption_albedo": false,
+          "absorption_color": [
+            0.3799999952316284,
+            0.16300000250339508,
+            0.08399999886751175
+          ],
+          "absorption_enable": false,
+          "absorption_factor": 0.5,
+          "active_layer": -1,
+          "always_unlit": false,
+          "backface_colored": -1,
+          "cast_shadow": -1,
+          "color": [
+            1,
+            0.594119668006897,
+            0.8127700090408325
+          ],
+          "config_primitive_post": {
+            "max_faces": 500000,
+            "subdivision_count": 0,
+            "subdivision_keep_triangles": false,
+            "subdivision_linear": 0,
+            "uv": true
+          },
+          "config_tube": {
+            "cap_end": true,
+            "cap_start": true,
+            "constant_density": true,
+            "curve": {
+              "closed": false,
+              "normal0": [
+                -0.04271288216114044,
+                0.8691576719284058,
+                0.4926871061325073
+              ],
+              "points": [
+                [
+                  -0.5784122943878174,
+                  0.9684581160545349,
+                  -0.0503569133579731
+                ],
+                [
+                  -0.8935379385948181,
+                  0.985149621963501,
+                  -0.09956865012645721
+                ],
+                [
+                  -0.9810766577720642,
+                  1.5257395505905151,
+                  -0.11922168731689453
+                ],
+                [
+                  -0.931928277015686,
+                  2.0583748817443848,
+                  -0.12784481048583984
+                ],
+                [
+                  -0.5893848538398743,
+                  2.0844385623931885,
+                  -0.11384734511375427
+                ]
+              ],
+              "sharps": [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "snap_offset": 0,
+              "snap_surface": true,
+              "snap_vertex": false,
+              "type": "catmull-rom",
+              "uniform": true
+            },
+            "edit_hole": "none",
+            "edit_profile": "none",
+            "edit_radius": "one",
+            "edit_rotate": "none",
+            "edit_spiral": "none",
+            "hole_radius_end": 0.800000011920929,
+            "hole_radius_start": 0.800000011920929,
+            "profile_index": 0,
+            "profile_legacy_center": false,
+            "profile_sync_uid": false,
+            "profiles": [
+              {
+                "closed": true,
+                "mirror_x": false,
+                "mirror_y": false,
+                "points": [
+                  [
+                    -1,
+                    -1
+                  ],
+                  [
+                    1,
+                    -1
+                  ],
+                  [
+                    1,
+                    1
+                  ],
+                  [
+                    -1,
+                    1
+                  ]
+                ],
+                "reference_x": 0,
+                "reference_y": 1,
+                "sharps": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "type": "spline",
+                "ui_snap": true,
+                "ui_step": 0.20000000298023224,
+                "ui_step_auto": true,
+                "uid": "9393ef3e-3d0c-473a-b192-d3dbd15554d9",
+                "uniform": true
+              },
+              {
+                "closed": true,
+                "mirror_x": false,
+                "mirror_y": false,
+                "points": [
+                  [
+                    -1,
+                    -1
+                  ],
+                  [
+                    1,
+                    -1
+                  ],
+                  [
+                    1,
+                    1
+                  ],
+                  [
+                    -1,
+                    1
+                  ]
+                ],
+                "reference_x": 0,
+                "reference_y": 1,
+                "sharps": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "type": "spline",
+                "ui_snap": true,
+                "ui_step": 0.20000000298023224,
+                "ui_step_auto": true,
+                "uid": "67333b84-5ecd-4fea-a214-a5cc6f04c8e5",
+                "uniform": true
+              },
+              {
+                "closed": true,
+                "mirror_x": false,
+                "mirror_y": false,
+                "points": [
+                  [
+                    -1,
+                    -1
+                  ],
+                  [
+                    1,
+                    -1
+                  ],
+                  [
+                    1,
+                    1
+                  ],
+                  [
+                    -1,
+                    1
+                  ]
+                ],
+                "reference_x": 0,
+                "reference_y": 1,
+                "sharps": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "type": "spline",
+                "ui_snap": true,
+                "ui_step": 0.20000000298023224,
+                "ui_step_auto": true,
+                "uid": "48b0c3f9-f551-41b2-b7df-f892d19b7b72",
+                "uniform": true
+              },
+              {
+                "closed": true,
+                "mirror_x": false,
+                "mirror_y": false,
+                "points": [
+                  [
+                    -1,
+                    -1
+                  ],
+                  [
+                    1,
+                    -1
+                  ],
+                  [
+                    1,
+                    1
+                  ],
+                  [
+                    -1,
+                    1
+                  ]
+                ],
+                "reference_x": 0,
+                "reference_y": 1,
+                "sharps": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "type": "spline",
+                "ui_snap": true,
+                "ui_step": 0.20000000298023224,
+                "ui_step_auto": true,
+                "uid": "2f009e9b-7d09-4017-920e-19f654adbb0a",
+                "uniform": true
+              },
+              {
+                "closed": true,
+                "mirror_x": false,
+                "mirror_y": false,
+                "points": [
+                  [
+                    -1,
+                    -1
+                  ],
+                  [
+                    1,
+                    -1
+                  ],
+                  [
+                    1,
+                    1
+                  ],
+                  [
+                    -1,
+                    1
+                  ]
+                ],
+                "reference_x": 0,
+                "reference_y": 1,
+                "sharps": [
+                  1,
+                  1,
+                  1,
+                  1
+                ],
+                "type": "spline",
+                "ui_snap": true,
+                "ui_step": 0.20000000298023224,
+                "ui_step_auto": true,
+                "uid": "2498ddb1-6df8-4401-b604-b391eea86c4c",
+                "uniform": true
+              }
+            ],
+            "radiuses": [
+              0.11376690119504929,
+              0.11376690119504929,
+              0.11376690119504929,
+              0.11376690119504929,
+              0.11376690119504929
+            ],
+            "rotates": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "spiral_radius": 1,
+            "spiral_radius_use_radius": true,
+            "spiral_scale": 1,
+            "spiral_scale_use_radius": true,
+            "spiral_twist_offset": 0,
+            "spirals": [
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            "subdiv_x": 30,
+            "subdiv_y": 73
+          },
+          "dynamic_local_edge_length": 0.0066666752099990845,
+          "factorColor": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissive": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissiveStrength": 1,
+          "factorMetalness": 1,
+          "factorNormal": 1,
+          "factorOcclusion": 1,
+          "factorOpacity": 1,
+          "factorRoughness": 1,
+          "flip_culling": false,
+          "flip_y": -1,
+          "groups": [
+            {
+              "color": [
+                0.6922674179077148,
+                0.09028510004281998,
+                0.3994104862213135
+              ],
+              "name": "Main"
+            },
+            {
+              "color": [
+                0.18038882315158844,
+                0.7531997561454773,
+                0.12686313688755035
+              ],
+              "name": "Bottom"
+            },
+            {
+              "color": [
+                0.05864971503615379,
+                0.37706881761550903,
+                0.6983644962310791
+              ],
+              "name": "Top"
+            }
+          ],
+          "index_group": 0,
+          "keep_order": 0,
+          "material_type": "opaque",
+          "mesh_type": "tube",
+          "metalness": 0,
+          "opacity": 1,
+          "receive_shadow": -1,
+          "reflectance": 0.5,
+          "refraction_interior_roughness": 0,
+          "refraction_ior": 1.3300000429153442,
+          "refraction_surface_roughness": 0,
+          "roughness": 0.25,
+          "smooth_shading": -1,
+          "subdiv_linear": false,
+          "subdiv_lock0": false,
+          "subdiv_method": "catmull",
+          "subdiv_sharp_group": false,
+          "subdiv_sticky_border": false,
+          "subsurface_color": [
+            1,
+            0.20000000298023224,
+            0.10000000149011612
+          ],
+          "subsurface_depth": -1,
+          "symmetry_frame": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "symmetry_local": false,
+          "symmetry_radial_x": 1,
+          "symmetry_radial_y": 1,
+          "symmetry_radial_z": 1,
+          "symmetry_sculpt": true,
+          "symmetry_transform": false,
+          "symmetry_x": true,
+          "symmetry_y": false,
+          "symmetry_z": false,
+          "translucency": true,
+          "translucency_factor": 1,
+          "two_sided": -1,
+          "use_color_opacity": 1,
+          "version": 1,
+          "voxel_local_edge_length": 0.0066666752099990845,
+          "voxel_qef": false,
+          "voxel_sub_level": -1,
+          "wireframe_visible": -1
+        }
+      },
+      "name": "Handle",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 64,
+            "COLOR_1": 65,
+            "NORMAL": 62,
+            "POSITION": 61,
+            "TANGENT": 63,
+            "TEXCOORD_0": 66
+          },
+          "extras": {
+            "nomad": {
+              "group": 0
+            }
+          },
+          "indices": 58,
+          "material": 6
+        },
+        {
+          "attributes": {
+            "COLOR_0": 64,
+            "COLOR_1": 65,
+            "NORMAL": 62,
+            "POSITION": 61,
+            "TANGENT": 63,
+            "TEXCOORD_0": 66
+          },
+          "extras": {
+            "nomad": {
+              "group": 1
+            }
+          },
+          "indices": 59,
+          "material": 6
+        },
+        {
+          "attributes": {
+            "COLOR_0": 64,
+            "COLOR_1": 65,
+            "NORMAL": 62,
+            "POSITION": 61,
+            "TANGENT": 63,
+            "TEXCOORD_0": 66
+          },
+          "extras": {
+            "nomad": {
+              "group": 2
+            }
+          },
+          "indices": 60,
+          "material": 6
+        }
+      ]
+    },
+    {
+      "extras": {
+        "nomad": {
+          "absorption_albedo": false,
+          "absorption_color": [
+            0.3799999952316284,
+            0.16300000250339508,
+            0.08399999886751175
+          ],
+          "absorption_enable": false,
+          "absorption_factor": 0.5,
+          "active_layer": -1,
+          "always_unlit": false,
+          "backface_colored": -1,
+          "cast_shadow": -1,
+          "color": [
+            1,
+            1,
+            1
+          ],
+          "dynamic_local_edge_length": 0.006666675675660372,
+          "factorColor": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissive": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissiveStrength": 1,
+          "factorMetalness": 1,
+          "factorNormal": 1,
+          "factorOcclusion": 1,
+          "factorOpacity": 1,
+          "factorRoughness": 1,
+          "flip_culling": false,
+          "flip_y": -1,
+          "groups": [
+            {
+              "color": [
+                0.6319669485092163,
+                0.2579513192176819,
+                0.6529842019081116
+              ],
+              "name": "Main"
+            },
+            {
+              "color": [
+                0.2134581208229065,
+                0.7495446801185608,
+                0.07600187510251999
+              ],
+              "name": "Hole"
+            },
+            {
+              "color": [
+                0.6104565858840942,
+                0.2087876796722412,
+                0.09747736901044846
+              ],
+              "name": "Bottom"
+            },
+            {
+              "color": [
+                0.1453114151954651,
+                0.6275299787521362,
+                0.5149809122085571
+              ],
+              "name": "Top"
+            }
+          ],
+          "index_group": 0,
+          "keep_order": 0,
+          "material_type": "opaque",
+          "mesh_type": "multiresolution",
+          "metalness": 0,
+          "multires_level": 0,
+          "multires_level_count": 1,
+          "opacity": 1,
+          "receive_shadow": -1,
+          "reflectance": 0.5,
+          "refraction_interior_roughness": 0,
+          "refraction_ior": 1.3300000429153442,
+          "refraction_surface_roughness": 0,
+          "roughness": 0.25,
+          "smooth_shading": -1,
+          "subdiv_linear": false,
+          "subdiv_lock0": false,
+          "subdiv_method": "catmull",
+          "subdiv_sharp_group": false,
+          "subdiv_sticky_border": false,
+          "subsurface_color": [
+            1,
+            0.20000000298023224,
+            0.10000000149011612
+          ],
+          "subsurface_depth": -1,
+          "symmetry_frame": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "symmetry_local": false,
+          "symmetry_radial_x": 1,
+          "symmetry_radial_y": 1,
+          "symmetry_radial_z": 1,
+          "symmetry_sculpt": true,
+          "symmetry_transform": false,
+          "symmetry_x": true,
+          "symmetry_y": false,
+          "symmetry_z": false,
+          "translucency": true,
+          "translucency_factor": 1,
+          "two_sided": -1,
+          "use_color_opacity": 1,
+          "version": 1,
+          "voxel_local_edge_length": 0.006666644476354122,
+          "voxel_qef": false,
+          "voxel_sub_level": -1,
+          "wireframe_visible": -1
+        }
+      },
+      "name": "Base",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 74,
+            "COLOR_1": 75,
+            "NORMAL": 72,
+            "POSITION": 71,
+            "TANGENT": 73,
+            "TEXCOORD_0": 76
+          },
+          "extras": {
+            "nomad": {
+              "group": 0
+            }
+          },
+          "indices": 67,
+          "material": 7
+        },
+        {
+          "attributes": {
+            "COLOR_0": 74,
+            "COLOR_1": 75,
+            "NORMAL": 72,
+            "POSITION": 71,
+            "TANGENT": 73,
+            "TEXCOORD_0": 76
+          },
+          "extras": {
+            "nomad": {
+              "group": 1
+            }
+          },
+          "indices": 68,
+          "material": 7
+        },
+        {
+          "attributes": {
+            "COLOR_0": 74,
+            "COLOR_1": 75,
+            "NORMAL": 72,
+            "POSITION": 71,
+            "TANGENT": 73,
+            "TEXCOORD_0": 76
+          },
+          "extras": {
+            "nomad": {
+              "group": 2
+            }
+          },
+          "indices": 69,
+          "material": 7
+        },
+        {
+          "attributes": {
+            "COLOR_0": 74,
+            "COLOR_1": 75,
+            "NORMAL": 72,
+            "POSITION": 71,
+            "TANGENT": 73,
+            "TEXCOORD_0": 76
+          },
+          "extras": {
+            "nomad": {
+              "group": 3
+            }
+          },
+          "indices": 70,
+          "material": 7
+        }
+      ]
+    },
+    {
+      "extras": {
+        "nomad": {
+          "absorption_albedo": false,
+          "absorption_color": [
+            0.3799999952316284,
+            0.16300000250339508,
+            0.08399999886751175
+          ],
+          "absorption_enable": false,
+          "absorption_factor": 0.5,
+          "active_layer": -1,
+          "always_unlit": false,
+          "backface_colored": -1,
+          "cast_shadow": -1,
+          "color": [
+            1,
+            0.594119668006897,
+            0.8127700090408325
+          ],
+          "config_cylinder": {
+            "cap_end": true,
+            "cap_start": false,
+            "constant_density": true,
+            "edit_hole": "one",
+            "edit_radius": "start_end",
+            "height": 0.245050847530365,
+            "hole_radius_end": 0.9900000095367432,
+            "hole_radius_start": 0.9900000095367432,
+            "radius_end": 0.49728265404701233,
+            "radius_start": 0.42958152294158936,
+            "subdiv_x": 162,
+            "subdiv_y": 12,
+            "subdiv_z": 1
+          },
+          "config_primitive_post": {
+            "max_faces": 500000,
+            "subdivision_count": 0,
+            "subdivision_keep_triangles": false,
+            "subdivision_linear": 0,
+            "uv": true
+          },
+          "dynamic_local_edge_length": 0.00666673993691802,
+          "factorColor": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissive": [
+            1,
+            1,
+            1
+          ],
+          "factorEmissiveStrength": 1,
+          "factorMetalness": 1,
+          "factorNormal": 1,
+          "factorOcclusion": 1,
+          "factorOpacity": 1,
+          "factorRoughness": 1,
+          "flip_culling": false,
+          "flip_y": -1,
+          "groups": [
+            {
+              "color": [
+                0.24172647297382355,
+                0.6933934688568115,
+                0.27290499210357666
+              ],
+              "name": "Main"
+            },
+            {
+              "color": [
+                0.06418228149414062,
+                0.08596476167440414,
+                0.6951087713241577
+              ],
+              "name": "Hole"
+            },
+            {
+              "color": [
+                0.618710994720459,
+                0.07035756856203079,
+                0.06624715030193329
+              ],
+              "name": "Bottom"
+            },
+            {
+              "color": [
+                0.7108238339424133,
+                0.2539629340171814,
+                0.4828542470932007
+              ],
+              "name": "Top"
+            }
+          ],
+          "index_group": 0,
+          "keep_order": 0,
+          "material_type": "opaque",
+          "mesh_type": "cylinder",
+          "metalness": 0,
+          "opacity": 1,
+          "receive_shadow": -1,
+          "reflectance": 0.5,
+          "refraction_interior_roughness": 0,
+          "refraction_ior": 1.3300000429153442,
+          "refraction_surface_roughness": 0,
+          "roughness": 0.25,
+          "smooth_shading": -1,
+          "subdiv_linear": false,
+          "subdiv_lock0": false,
+          "subdiv_method": "catmull",
+          "subdiv_sharp_group": false,
+          "subdiv_sticky_border": false,
+          "subsurface_color": [
+            1,
+            0.20000000298023224,
+            0.10000000149011612
+          ],
+          "subsurface_depth": -1,
+          "symmetry_frame": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "symmetry_local": false,
+          "symmetry_radial_x": 1,
+          "symmetry_radial_y": 1,
+          "symmetry_radial_z": 1,
+          "symmetry_sculpt": true,
+          "symmetry_transform": false,
+          "symmetry_x": true,
+          "symmetry_y": false,
+          "symmetry_z": false,
+          "translucency": true,
+          "translucency_factor": 1,
+          "two_sided": -1,
+          "use_color_opacity": 1,
+          "version": 1,
+          "voxel_local_edge_length": 0.00666673993691802,
+          "voxel_qef": false,
+          "voxel_sub_level": -1,
+          "wireframe_visible": -1
+        }
+      },
+      "name": "Cylinder",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 83,
+            "COLOR_1": 84,
+            "NORMAL": 81,
+            "POSITION": 80,
+            "TANGENT": 82,
+            "TEXCOORD_0": 85
+          },
+          "extras": {
+            "nomad": {
+              "group": 0
+            }
+          },
+          "indices": 77,
+          "material": 8
+        },
+        {
+          "attributes": {
+            "COLOR_0": 83,
+            "COLOR_1": 84,
+            "NORMAL": 81,
+            "POSITION": 80,
+            "TANGENT": 82,
+            "TEXCOORD_0": 85
+          },
+          "extras": {
+            "nomad": {
+              "group": 1
+            }
+          },
+          "indices": 78,
+          "material": 8
+        },
+        {
+          "attributes": {
+            "COLOR_0": 83,
+            "COLOR_1": 84,
+            "NORMAL": 81,
+            "POSITION": 80,
+            "TANGENT": 82,
+            "TEXCOORD_0": 85
+          },
+          "extras": {
+            "nomad": {
+              "group": 2
+            }
+          },
+          "indices": 79,
+          "material": 8
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "extras": {
+        "nomad": {
+          "mask_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "matrix": [
+            0.9999997615814209,
+            0,
+            0,
+            0,
+            0,
+            0.20499995350837708,
+            0,
+            0,
+            0,
+            0,
+            0.9120771288871765,
+            0,
+            0.002862214110791683,
+            2.666248321533203,
+            0,
+            0.9999998807907104
+          ],
+          "node_collapse": true,
+          "pivot_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            -0.002862215042114258,
+            -0.09568214416503906,
+            -0.010881796479225159,
+            1
+          ],
+          "selected": false,
+          "selected_main": false,
+          "visible": true
+        }
+      },
+      "matrix": [
+        0.9999997615814209,
+        0,
+        0,
+        0,
+        0,
+        0.20499995350837708,
+        0,
+        0,
+        0,
+        0,
+        0.9120771288871765,
+        0,
+        0.002862214110791683,
+        2.666248321533203,
+        0,
+        1
+      ],
+      "mesh": 0,
+      "name": "Lid seal"
+    },
+    {
+      "extras": {
+        "nomad": {
+          "mask_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "matrix": [
+            0.13341368734836578,
+            0,
+            0,
+            0,
+            0,
+            2.5269410610198975,
+            0,
+            0,
+            0,
+            0,
+            0.13287484645843506,
+            0,
+            0,
+            1.9659124612808228,
+            0.39146384596824646,
+            0.9999998807907104
+          ],
+          "node_collapse": true,
+          "pivot_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "selected": false,
+          "selected_main": false,
+          "visible": true
+        }
+      },
+      "matrix": [
+        0.13341368734836578,
+        0,
+        0,
+        0,
+        0,
+        2.5269410610198975,
+        0,
+        0,
+        0,
+        0,
+        0.13287484645843506,
+        0,
+        0,
+        1.9659124612808228,
+        0.39146384596824646,
+        1
+      ],
+      "mesh": 1,
+      "name": "Straw"
+    },
+    {
+      "extras": {
+        "nomad": {
+          "mask_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "matrix": [
+            1.2373231649398804,
+            0,
+            0,
+            0,
+            0,
+            0.974982500076294,
+            0,
+            0,
+            0,
+            0,
+            1.2373231649398804,
+            0,
+            0,
+            2.6457149982452393,
+            0,
+            1
+          ],
+          "node_collapse": true,
+          "pivot_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "selected": false,
+          "selected_main": false,
+          "visible": true
+        }
+      },
+      "matrix": [
+        1.2373231649398804,
+        0,
+        0,
+        0,
+        0,
+        0.974982500076294,
+        0,
+        0,
+        0,
+        0,
+        1.2373231649398804,
+        0,
+        0,
+        2.6457149982452393,
+        0,
+        1
+      ],
+      "mesh": 2,
+      "name": "Lid"
+    },
+    {
+      "extras": {
+        "nomad": {
+          "mask_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "matrix": [
+            1.2373231649398804,
+            0,
+            0,
+            0,
+            0,
+            0.8245097398757935,
+            0,
+            0,
+            0,
+            0,
+            1.2373231649398804,
+            0,
+            0,
+            2.5206942558288574,
+            0,
+            1
+          ],
+          "node_collapse": true,
+          "pivot_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "selected": false,
+          "selected_main": false,
+          "visible": true
+        }
+      },
+      "matrix": [
+        1.2373231649398804,
+        0,
+        0,
+        0,
+        0,
+        0.8245097398757935,
+        0,
+        0,
+        0,
+        0,
+        1.2373231649398804,
+        0,
+        0,
+        2.5206942558288574,
+        0,
+        1
+      ],
+      "mesh": 3,
+      "name": "Lid 1"
+    },
+    {
+      "extras": {
+        "nomad": {
+          "mask_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "matrix": [
+            -0.503264307975769,
+            9.534970477902854e-16,
+            -1.399986260253172e-8,
+            0,
+            7.399354018389204e-8,
+            3.799543080162948e-8,
+            -0.503264307975769,
+            0,
+            -5.999377350462964e-8,
+            -0.5032641887664795,
+            -3.7995391721779015e-8,
+            0,
+            0.019590888172388077,
+            2.0199146270751953,
+            -0.6155641078948975,
+            1
+          ],
+          "node_collapse": true,
+          "pivot_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "selected": false,
+          "selected_main": false,
+          "visible": false
+        }
+      },
+      "matrix": [
+        -0.503264307975769,
+        0,
+        -1.3999858161639622e-8,
+        0,
+        1.3999858161639622e-8,
+        8.99906709150855e-8,
+        -0.5032642483711243,
+        0,
+        2.2349419593513864e-15,
+        -0.5032641291618347,
+        -5.999376639920229e-8,
+        0,
+        0.019590888172388077,
+        2.0199146270751953,
+        -0.6155641078948975,
+        1
+      ],
+      "mesh": 4,
+      "name": "Logo new"
+    },
+    {
+      "extras": {
+        "nomad": {
+          "mask_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "matrix": [
+            1.155185580253601,
+            0,
+            0,
+            0,
+            0,
+            1.155185580253601,
+            0,
+            0,
+            0,
+            0,
+            1.1551858186721802,
+            0,
+            0,
+            1.5571361780166626,
+            0,
+            1
+          ],
+          "node_collapse": true,
+          "pivot_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "selected": false,
+          "selected_main": false,
+          "visible": true
+        }
+      },
+      "matrix": [
+        1.155185580253601,
+        0,
+        0,
+        0,
+        0,
+        1.155185580253601,
+        0,
+        0,
+        0,
+        0,
+        1.1551858186721802,
+        0,
+        0,
+        1.5571361780166626,
+        0,
+        1
+      ],
+      "mesh": 5,
+      "name": "Main cup container"
+    },
+    {
+      "extras": {
+        "nomad": {
+          "mask_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "matrix": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1.0000001192092896,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "node_collapse": true,
+          "pivot_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "selected": false,
+          "selected_main": false,
+          "visible": true
+        }
+      },
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1.0000001192092896,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "mesh": 6,
+      "name": "Handle"
+    },
+    {
+      "extras": {
+        "nomad": {
+          "mask_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "matrix": [
+            1.0930880308151245,
+            0,
+            0,
+            0,
+            0,
+            1.0930880308151245,
+            0,
+            0,
+            0,
+            0,
+            1.0930880308151245,
+            0,
+            0,
+            0.030292749404907227,
+            0,
+            1
+          ],
+          "node_collapse": false,
+          "pivot_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "selected": false,
+          "selected_main": false,
+          "visible": true
+        }
+      },
+      "matrix": [
+        1.0930880308151245,
+        0,
+        0,
+        0,
+        0,
+        1.0930880308151245,
+        0,
+        0,
+        0,
+        0,
+        1.0930880308151245,
+        0,
+        0,
+        0.030292749404907227,
+        0,
+        1
+      ],
+      "mesh": 7,
+      "name": "Base"
+    },
+    {
+      "extras": {
+        "nomad": {
+          "mask_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "matrix": [
+            1.164800763130188,
+            0,
+            0,
+            0,
+            0,
+            1.164800763130188,
+            0,
+            0,
+            0,
+            0,
+            1.164800763130188,
+            0,
+            0,
+            0.5780209898948669,
+            0,
+            0.9999999403953552
+          ],
+          "node_collapse": true,
+          "pivot_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "selected": false,
+          "selected_main": false,
+          "visible": true
+        }
+      },
+      "matrix": [
+        1.164800763130188,
+        0,
+        0,
+        0,
+        0,
+        1.164800763130188,
+        0,
+        0,
+        0,
+        0,
+        1.164800763130188,
+        0,
+        0,
+        0.5780209898948669,
+        0,
+        1
+      ],
+      "mesh": 8,
+      "name": "Cylinder"
+    },
+    {
+      "children": [
+        10,
+        11
+      ],
+      "extras": {
+        "nomad": {
+          "mask_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "matrix": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "node_collapse": false,
+          "pivot_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "selected": false,
+          "selected_main": false,
+          "visible": true
+        }
+      },
+      "name": "Lights"
+    },
+    {
+      "extensions": {
+        "KHR_lights_punctual": {
+          "light": 0
+        }
+      },
+      "extras": {
+        "nomad": {
+          "mask_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "matrix": [
+            -0.8522651791572571,
+            0.0698896199464798,
+            -0.5184202194213867,
+            0,
+            0.0698896124958992,
+            0.9973631501197815,
+            0.01956101506948471,
+            0,
+            0.5184202194213867,
+            -0.01956101506948471,
+            -0.8549022674560547,
+            0,
+            0.46744468808174133,
+            3.674412965774536,
+            -0.47116053104400635,
+            1
+          ],
+          "node_collapse": true,
+          "pivot_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "selected": false,
+          "selected_main": false,
+          "visible": true
+        }
+      },
+      "matrix": [
+        -0.8522651195526123,
+        0.0698896273970604,
+        -0.5184202790260315,
+        0,
+        0.06988964229822159,
+        0.9973631501197815,
+        0.019561031833291054,
+        0,
+        0.5184202790260315,
+        -0.01956101506948471,
+        -0.8549021482467651,
+        0,
+        0.46744468808174133,
+        3.674412965774536,
+        -0.47116053104400635,
+        1
+      ],
+      "name": "Light"
+    },
+    {
+      "extensions": {
+        "KHR_lights_punctual": {
+          "light": 1
+        }
+      },
+      "extras": {
+        "nomad": {
+          "mask_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "matrix": [
+            0.44068336486816406,
+            0.6781498193740845,
+            0.5881420373916626,
+            0,
+            0.6781498193740845,
+            0.17776961624622345,
+            -0.7130994200706482,
+            0,
+            -0.5881420373916626,
+            0.7130994200706482,
+            -0.3815470337867737,
+            0,
+            0.8975041508674622,
+            2.255762815475464,
+            -1.529479742050171,
+            1
+          ],
+          "node_collapse": true,
+          "pivot_delta": [
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1
+          ],
+          "selected": true,
+          "selected_main": true,
+          "visible": true
+        }
+      },
+      "matrix": [
+        0.44068336486816406,
+        0.6781498193740845,
+        0.5881420373916626,
+        0,
+        0.6781498193740845,
+        0.17776960134506226,
+        -0.7130994200706482,
+        0,
+        -0.5881419777870178,
+        0.7130993604660034,
+        -0.3815469443798065,
+        0,
+        0.8975041508674622,
+        2.255762815475464,
+        -1.529479742050171,
+        1
+      ],
+      "name": "Light 1"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "source": 0
+    },
+    {
+      "source": 1
+    }
+  ]
+}
