@@ -7,7 +7,7 @@ import GetNav from '../../components/nav';
 import GetFooter from '../../components/footer/index';
 // import Monkey from '../../MonkeyPlane'
 import { Canvas } from "@react-three/fiber";
-import { OrbitControls, Environment } from "@react-three/drei";
+import { OrbitControls, Environment, Text } from "@react-three/drei";
 
 import Candlewarmer from '../../Models/Candlewarmer'
 import Matcha from '../../Models/Smallblendermatcha'
@@ -23,14 +23,21 @@ function GetThreeDPage() {
             <a href="https://www.instagram.com/rosegoldrenders/" target="_blank" rel="noopener noreferrer">@rosegoldrenders</a>
         </div>
      </div>
-     <div className="donutSection">
-    {/* I want to ideally put the skateboard here */}
-    
+     <div className="donutSection">    
     <Canvas shadows camera={{ position: [2, 1, 3], fov: 50 }}>
     <Environment preset="sunset" background={false} />
       {/* <Float speed={0.5} rotationIntensity={1.4} floatIntensity={1}> */}
         {/* <Character /> */}
-         
+        <Text
+        fontSize={.4}
+        color="black"
+        position={[-7, 1.7, -2.3]}
+        rotation={[0, 70, 0]}
+        stroke="white"         // Outline color
+        strokeWidth={0.01} 
+      >
+        Rest and Relaxation Corner
+      </Text>
            <Suspense fallback={null}>
            <Candlewarmer />
             </Suspense>
