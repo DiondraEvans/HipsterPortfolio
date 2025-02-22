@@ -7,14 +7,10 @@ import GetNav from '../../components/nav';
 import GetFooter from '../../components/footer/index';
 // import Monkey from '../../MonkeyPlane'
 import { Canvas } from "@react-three/fiber";
-import { OrbitControls, Float, useGLTF } from "@react-three/drei";
+import { OrbitControls, Float, useGLTF, Environment, useAnimations } from "@react-three/drei";
 import Character from '../../Character'
-
-import Cutekitchen from '../../Cutekitchen'
-import Matcha from '../../Smallblendermatcha'
-import { Environment } from "@react-three/drei";
-
-
+import Candlewarmer from '../../Models/Candlewarmer'
+import Matcha from '../../Models/Smallblendermatcha'
 
 function GetThreeDPage() {
 
@@ -34,12 +30,11 @@ function GetThreeDPage() {
     <Environment preset="sunset" background={false} />
       {/* <Float speed={0.5} rotationIntensity={1.4} floatIntensity={1}> */}
         {/* <Character /> */}
-         <Float>
+         
            <Suspense fallback={null}>
-              <Cutekitchen />
+           <Candlewarmer />
             </Suspense>
-         </Float>
-         <Matcha />
+        
       <OrbitControls enableZoom={true} />
     </Canvas>
      </div>

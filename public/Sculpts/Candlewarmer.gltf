@@ -1,0 +1,1461 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v4.1.63",
+    "version": "2.0"
+  },
+  "extensionsUsed": [
+    "KHR_draco_mesh_compression",
+    "KHR_materials_specular",
+    "KHR_materials_transmission",
+    "KHR_materials_volume",
+    "KHR_materials_ior",
+    "KHR_materials_sheen"
+  ],
+  "extensionsRequired": [
+    "KHR_draco_mesh_compression"
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0,
+        1,
+        2,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "Light warmer",
+      "translation": [
+        0,
+        0,
+        0.0961882472038269
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "Top cone",
+      "rotation": [
+        0.9998502135276794,
+        0,
+        0,
+        0.017313824966549873
+      ],
+      "scale": [
+        0.25383806228637695,
+        0.2538383901119232,
+        0.2538382112979889
+      ],
+      "translation": [
+        -0.002014630241319537,
+        0.4833761751651764,
+        0.10116969048976898
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "Light bulb",
+      "scale": [
+        0.34719324111938477,
+        0.34719327092170715,
+        0.34719324111938477
+      ],
+      "translation": [
+        0.052396319806575775,
+        -0.10288074612617493,
+        0.09456006437540054
+      ]
+    },
+    {
+      "mesh": 3,
+      "name": "Gold rods",
+      "rotation": [
+        -0.039059512317180634,
+        -0.0009932495886459947,
+        0,
+        0.9992364048957825
+      ],
+      "scale": [
+        1,
+        1,
+        0.999994158744812
+      ],
+      "translation": [
+        0.6697964072227478,
+        -0.09611179679632187,
+        0.1417841911315918
+      ]
+    },
+    {
+      "mesh": 4,
+      "name": "Rod connection points",
+      "scale": [
+        0.09892605245113373,
+        0.09892605245113373,
+        0.09892605245113373
+      ],
+      "translation": [
+        0.059298694133758545,
+        0.3850405812263489,
+        0.10420514643192291
+      ]
+    },
+    {
+      "children": [
+        3,
+        4
+      ],
+      "name": "Mirror"
+    },
+    {
+      "name": "Lights"
+    },
+    {
+      "mesh": 5,
+      "name": "Candle stand",
+      "scale": [
+        1.669511318206787,
+        1.669511318206787,
+        1.669511318206787
+      ],
+      "translation": [
+        0.00533531978726387,
+        -1.9552050828933716,
+        0.05760503560304642
+      ]
+    },
+    {
+      "name": "Lights 1",
+      "scale": [
+        0.7350397706031799,
+        0.7350397706031799,
+        0.7350397706031799
+      ],
+      "translation": [
+        0.0000030638148018624634,
+        -1.4065431356430054,
+        0.000011489308235468343
+      ]
+    },
+    {
+      "mesh": 4,
+      "name": "Rod connection points.001",
+      "rotation": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        -0.09892605245113373,
+        -0.09892605245113373,
+        -0.09892605245113373
+      ],
+      "translation": [
+        -0.059298694133758545,
+        0.3850405812263489,
+        0.10420514643192291
+      ]
+    },
+    {
+      "mesh": 3,
+      "name": "Gold rods.001",
+      "rotation": [
+        0.9992364048957825,
+        0,
+        -0.0009932495886459947,
+        0.039059512317180634
+      ],
+      "scale": [
+        -0.9999997615814209,
+        -1.0000004768371582,
+        -0.9999942779541016
+      ],
+      "translation": [
+        -0.6697964072227478,
+        -0.09611179679632187,
+        0.1417841911315918
+      ]
+    },
+    {
+      "mesh": 6,
+      "name": "Candle glass container ",
+      "scale": [
+        0.8980790972709656,
+        0.8980790972709656,
+        0.8980792760848999
+      ],
+      "translation": [
+        0.00453963503241539,
+        -1.3925169706344604,
+        -1.6462527513504028
+      ]
+    },
+    {
+      "mesh": 7,
+      "name": "Candle wax",
+      "scale": [
+        0.9800794720649719,
+        0.6370516419410706,
+        0.9800794720649719
+      ],
+      "translation": [
+        0.0000030640512704849243,
+        -1.3046272993087769,
+        -1.646241307258606
+      ]
+    },
+    {
+      "mesh": 8,
+      "name": "Wicks",
+      "rotation": [
+        0.07904142886400223,
+        0,
+        0,
+        0.9968713521957397
+      ],
+      "scale": [
+        0.6558297276496887,
+        0.6558300256729126,
+        0.6558298468589783
+      ],
+      "translation": [
+        0.039361994713544846,
+        -1.4561271667480469,
+        -1.9902023077011108
+      ]
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 0,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 0,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 0,
+            "path": "scale"
+          }
+        }
+      ],
+      "name": "Light warmerAction",
+      "samplers": [
+        {
+          "input": 44,
+          "interpolation": "LINEAR",
+          "output": 45
+        },
+        {
+          "input": 44,
+          "interpolation": "LINEAR",
+          "output": 46
+        },
+        {
+          "input": 44,
+          "interpolation": "LINEAR",
+          "output": 47
+        }
+      ]
+    },
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 11,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 11,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 11,
+            "path": "scale"
+          }
+        }
+      ],
+      "name": "Action",
+      "samplers": [
+        {
+          "input": 48,
+          "interpolation": "LINEAR",
+          "output": 49
+        },
+        {
+          "input": 50,
+          "interpolation": "STEP",
+          "output": 51
+        },
+        {
+          "input": 50,
+          "interpolation": "STEP",
+          "output": 52
+        }
+      ]
+    },
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 11,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 11,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 11,
+            "path": "scale"
+          }
+        }
+      ],
+      "name": "Candle glass container Action",
+      "samplers": [
+        {
+          "input": 53,
+          "interpolation": "LINEAR",
+          "output": 54
+        },
+        {
+          "input": 55,
+          "interpolation": "STEP",
+          "output": 56
+        },
+        {
+          "input": 55,
+          "interpolation": "STEP",
+          "output": 57
+        }
+      ]
+    },
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 12,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 12,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 12,
+            "path": "scale"
+          }
+        }
+      ],
+      "name": "Action.001",
+      "samplers": [
+        {
+          "input": 48,
+          "interpolation": "LINEAR",
+          "output": 58
+        },
+        {
+          "input": 50,
+          "interpolation": "STEP",
+          "output": 59
+        },
+        {
+          "input": 50,
+          "interpolation": "STEP",
+          "output": 60
+        }
+      ]
+    },
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 13,
+            "path": "translation"
+          }
+        },
+        {
+          "sampler": 1,
+          "target": {
+            "node": 13,
+            "path": "rotation"
+          }
+        },
+        {
+          "sampler": 2,
+          "target": {
+            "node": 13,
+            "path": "scale"
+          }
+        }
+      ],
+      "name": "Action.002",
+      "samplers": [
+        {
+          "input": 48,
+          "interpolation": "LINEAR",
+          "output": 61
+        },
+        {
+          "input": 50,
+          "interpolation": "STEP",
+          "output": 62
+        },
+        {
+          "input": 50,
+          "interpolation": "STEP",
+          "output": 63
+        }
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.385454535484314,
+            1.385454535484314,
+            1.385454535484314
+          ]
+        }
+      },
+      "name": "Material_0",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "roughnessFactor": 0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.5018181800842285,
+            1.5018181800842285,
+            1.5018181800842285
+          ]
+        }
+      },
+      "name": "Material_1",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          0.911029577255249,
+          0.7494345307350159,
+          1
+        ],
+        "metallicFactor": 0.010142751038074493,
+        "roughnessFactor": 0
+      }
+    },
+    {
+      "doubleSided": false,
+      "extensions": {
+        "KHR_materials_transmission": {
+          "transmissionFactor": 1
+        },
+        "KHR_materials_volume": {
+          "attenuationColor": [
+            1,
+            0.9249517321586609,
+            0.5312832593917847
+          ],
+          "attenuationDistance": 2.515521227370234,
+          "thicknessFactor": 1
+        },
+        "KHR_materials_specular": {
+          "specularColorFactor": [
+            1.4398139715194702,
+            1.4398139715194702,
+            1.4398139715194702
+          ]
+        },
+        "KHR_materials_ior": {
+          "ior": 1.2376387119293213
+        }
+      },
+      "name": "Material_2",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material_4",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9529410004615784,
+          0.7664999961853027,
+          0.335999995470047,
+          1
+        ],
+        "roughnessFactor": 0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material_3",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.9529410004615784,
+          0.7664999961853027,
+          0.335999995470047,
+          1
+        ],
+        "roughnessFactor": 0
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material_8",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "roughnessFactor": 0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_specular": {
+          "specularFactor": 0.44727277755737305
+        },
+        "KHR_materials_sheen": {
+          "sheenColorFactor": [
+            1,
+            1,
+            1
+          ],
+          "sheenRoughnessFactor": 0.01636365056037903
+        }
+      },
+      "name": "Material_5",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material_6",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Material_7",
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0,
+        "roughnessFactor": 0.25
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Light warmer",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2,
+            "COLOR_0": 3
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 0,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Top cone",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 5,
+            "NORMAL": 6,
+            "TEXCOORD_0": 7,
+            "COLOR_0": 8
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 1,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Light bulb",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 10,
+            "NORMAL": 11,
+            "TEXCOORD_0": 12,
+            "COLOR_0": 13
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 2,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 14,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Gold rods",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 15,
+            "NORMAL": 16,
+            "TEXCOORD_0": 17,
+            "COLOR_0": 18
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 3,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 19,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Rod connection points",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 20,
+            "NORMAL": 21,
+            "TEXCOORD_0": 22,
+            "COLOR_0": 23
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 4,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 24,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Candle stand",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 25,
+            "NORMAL": 26,
+            "TEXCOORD_0": 27,
+            "COLOR_0": 28
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 5,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 29,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Candle glass container ",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 30,
+            "NORMAL": 31,
+            "COLOR_0": 32
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 6,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "COLOR_0": 2
+              }
+            }
+          },
+          "indices": 33,
+          "material": 6,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Candle wax",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 34,
+            "NORMAL": 35,
+            "TEXCOORD_0": 36,
+            "COLOR_0": 37
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 7,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 38,
+          "material": 7,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Wicks",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 39,
+            "NORMAL": 40,
+            "TEXCOORD_0": 41,
+            "COLOR_0": 42
+          },
+          "extensions": {
+            "KHR_draco_mesh_compression": {
+              "bufferView": 8,
+              "attributes": {
+                "POSITION": 0,
+                "NORMAL": 1,
+                "TEXCOORD_0": 2,
+                "COLOR_0": 3
+              }
+            }
+          },
+          "indices": 43,
+          "material": 8,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "accessors": [
+    {
+      "componentType": 5126,
+      "count": 4488,
+      "max": [
+        0.574185848236084,
+        0.4067884385585785,
+        0.5735355019569397
+      ],
+      "min": [
+        -0.574185848236084,
+        -0.4067884385585785,
+        -0.5735355019569397
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 4488,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 4488,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5126,
+      "count": 4488,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 25938,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 5149,
+      "max": [
+        0.5,
+        0.5000558495521545,
+        0.4994336664676666
+      ],
+      "min": [
+        -0.5,
+        -0.5000558495521545,
+        -0.4994336664676666
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 5149,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 5149,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5126,
+      "count": 5149,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 29700,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 6369,
+      "max": [
+        0.5,
+        0.5000000596046448,
+        0.5
+      ],
+      "min": [
+        -0.5,
+        -0.5,
+        -0.5
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 6369,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 6369,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5126,
+      "count": 6369,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 36864,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 10663,
+      "max": [
+        0.017626643180847168,
+        0.5232468247413635,
+        0.036534905433654785
+      ],
+      "min": [
+        -0.562504231929779,
+        -1.7761837244033813,
+        -0.3099917769432068
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 10663,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 10663,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5126,
+      "count": 10663,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 61650,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 6796,
+      "max": [
+        0.5261092782020569,
+        0.4778490364551544,
+        0.5
+      ],
+      "min": [
+        -0.5261092782020569,
+        -0.4778490364551544,
+        -0.5
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 6796,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 6796,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5126,
+      "count": 6796,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 38388,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 1618,
+      "max": [
+        0.4994336664676666,
+        0.06143156811594963,
+        0.5
+      ],
+      "min": [
+        -0.4994336664676666,
+        -0.06135869026184082,
+        -0.5
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1618,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 1618,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5126,
+      "count": 1618,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 8316,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 10028,
+      "max": [
+        0.634969174861908,
+        0.5118041038513184,
+        0.6349690556526184
+      ],
+      "min": [
+        -0.634969174861908,
+        -0.514640212059021,
+        -0.635116696357727
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 10028,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 10028,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 56514,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 2796,
+      "max": [
+        0.49943363666534424,
+        0.4999999701976776,
+        0.5
+      ],
+      "min": [
+        -0.49943363666534424,
+        -0.4999999701976776,
+        -0.5
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 2796,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 2796,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5126,
+      "count": 2796,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 15840,
+      "type": "SCALAR"
+    },
+    {
+      "componentType": 5126,
+      "count": 7200,
+      "max": [
+        0.15385663509368896,
+        0.9188985824584961,
+        0.712760865688324
+      ],
+      "min": [
+        -0.37065768241882324,
+        0.6504747867584229,
+        0.17447413504123688
+      ],
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 7200,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5126,
+      "count": 7200,
+      "type": "VEC2"
+    },
+    {
+      "componentType": 5126,
+      "count": 7200,
+      "type": "VEC3"
+    },
+    {
+      "componentType": 5123,
+      "count": 37800,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 1,
+      "max": [
+        0
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 1,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 1,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 1,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 250,
+      "max": [
+        10.416666666666666
+      ],
+      "min": [
+        0.041666666666666664
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 250,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 2,
+      "max": [
+        10.416666666666666
+      ],
+      "min": [
+        0.041666666666666664
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 2,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5126,
+      "count": 2,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 81,
+      "max": [
+        3.3333333333333335
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5126,
+      "count": 81,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 20,
+      "componentType": 5126,
+      "count": 2,
+      "max": [
+        3.3333333333333335
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 21,
+      "componentType": 5126,
+      "count": 2,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 22,
+      "componentType": 5126,
+      "count": 2,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 23,
+      "componentType": 5126,
+      "count": 250,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 24,
+      "componentType": 5126,
+      "count": 2,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 25,
+      "componentType": 5126,
+      "count": 2,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 26,
+      "componentType": 5126,
+      "count": 250,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 27,
+      "componentType": 5126,
+      "count": 2,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 28,
+      "componentType": 5126,
+      "count": 2,
+      "type": "VEC3"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 19588,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22324,
+      "byteOffset": 19588
+    },
+    {
+      "buffer": 0,
+      "byteLength": 27024,
+      "byteOffset": 41912
+    },
+    {
+      "buffer": 0,
+      "byteLength": 37152,
+      "byteOffset": 68936
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11724,
+      "byteOffset": 106088
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8260,
+      "byteOffset": 117812
+    },
+    {
+      "buffer": 0,
+      "byteLength": 38432,
+      "byteOffset": 126072
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13100,
+      "byteOffset": 164504
+    },
+    {
+      "buffer": 0,
+      "byteLength": 28948,
+      "byteOffset": 177604
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4,
+      "byteOffset": 206552
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12,
+      "byteOffset": 206556
+    },
+    {
+      "buffer": 0,
+      "byteLength": 16,
+      "byteOffset": 206568
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12,
+      "byteOffset": 206584
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1000,
+      "byteOffset": 206596
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3000,
+      "byteOffset": 207596
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8,
+      "byteOffset": 210596
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32,
+      "byteOffset": 210604
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24,
+      "byteOffset": 210636
+    },
+    {
+      "buffer": 0,
+      "byteLength": 324,
+      "byteOffset": 210660
+    },
+    {
+      "buffer": 0,
+      "byteLength": 972,
+      "byteOffset": 210984
+    },
+    {
+      "buffer": 0,
+      "byteLength": 8,
+      "byteOffset": 211956
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32,
+      "byteOffset": 211964
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24,
+      "byteOffset": 211996
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3000,
+      "byteOffset": 212020
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32,
+      "byteOffset": 215020
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24,
+      "byteOffset": 215052
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3000,
+      "byteOffset": 215076
+    },
+    {
+      "buffer": 0,
+      "byteLength": 32,
+      "byteOffset": 218076
+    },
+    {
+      "buffer": 0,
+      "byteLength": 24,
+      "byteOffset": 218108
+    }
+  ],
+  "buffers": [
+    {
+      "uri": "Candlewarmer_data.bin",
+      "byteLength": 218132
+    }
+  ]
+}
