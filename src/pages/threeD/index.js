@@ -1,14 +1,11 @@
 import './index.css';
 // eslint-disable-next-line
-import React, { useRef, useEffect, Suspense } from 'react';
+import React, { Suspense } from 'react';
 import { InstagramEmbed } from 'react-social-media-embed';
 import {Parallax} from 'react-scroll-parallax';
 import GetNav from '../../components/nav';
 import GetFooter from '../../components/footer/index';
-// import Monkey from '../../MonkeyPlane'
 import { Canvas } from "@react-three/fiber";
-import { OrbitControls, Float, useGLTF, Environment, useAnimations } from "@react-three/drei";
-import Character from '../../Character'
 import Candlewarmer from '../../Models/Candlewarmer'
 import Matcha from '../../Models/Smallblendermatcha'
 
